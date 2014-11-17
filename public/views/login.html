@@ -1,0 +1,49 @@
+<div class="container">
+  <div class="row">
+    <div class="center-form panel">
+      <div class="panel-body">
+        <h2 class="text-center">Login</h2>
+        
+        <form method="post" ng-submit="login()" name="loginForm">
+
+          <div class="form-group">
+            <input class="form-control input-lg" type="text" name="email"
+            ng-model="email" placeholder="Email" required autofocus>
+          </div>
+
+          <div class="form-group">
+            <input class="form-control input-lg" type="password" name="password"
+            ng-model="password" placeholder="Password" required>
+          </div>
+          
+          <button type="submit" ng-disabled="loginForm.$invalid"
+          class="btn btn-lg btn-block btn-success">Sign In
+        </button>
+
+
+      </form>
+      
+      <button onclick="logout()"> Logout </button> 
+    </div>
+    <button ng-click="fbsignup()" class="btn btn-block btn-social " style="background-color:#2D4373" > <font color="white">Login with Facebook </font>
+    </button>
+  </div>
+
+</div>
+</div>
+
+<script type="text/javascript">
+
+
+
+function logout() {
+  FB.getLoginStatus(function(response) {
+    if (response && response.status === 'connected') {
+      FB.logout(function(response) {
+        document.location.reload();
+      });
+    }
+  });
+}
+
+</script>

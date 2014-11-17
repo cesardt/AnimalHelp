@@ -1,0 +1,82 @@
+  <div class="container">
+  	<div class="panel panel-default">
+  		<div class="panel-heading">
+  		</div>
+  		<div class="panel-body">
+  			
+  			<div class="row">
+  				<div class="col-md-2">
+  					<img data-holder-rendered="true" src="http://www.faithlineprotestants.org/wp-content/uploads/2010/12/facebook-default-no-profile-pic.jpg" style="width: 200px; height: 200px;" >
+  				</div>
+  				<div class= "col-md-6" style="padding-left:40px">
+  					<h3> Name</h3> <br>Residence<br> {{user.email}}
+  				</div>
+  				<div class= "col-md-2" >
+  					
+  					<p><h3 > <br><br><br># <br>Listed</h3></p>
+  				</div>
+  				<div div class= "col-md-2">
+  					<p><h3 >  <br><br><br># <br>Adopted</h3></p>
+  				</div>
+  			</div>
+  			<div class="row user-tabs">
+  				<div class="col-md-12 product-tabs">
+  					<ul id="myTab" class="nav nav-tabs">
+  						<li class="active"><a href="#listed" data-toggle="tab">Listed</a></li>
+  						<li class=""><a href="#adoptions" data-toggle="tab">Adoptions</a></li>
+  						<li class=""><a href="#reviews" data-toggle="tab">Reviews</a></li>
+  					</ul>
+  					<div id="myTabContent" class="tab-content">
+
+  						
+  						<div class="tab-pane fade active in" id="listed">
+  							<div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets">
+  								<div class="photos">
+  									<div class="doggies"  style="background: url(../images/doggie.jpg);background-size: 100%;" >
+  									</div>
+  								</div>
+  							</div>
+  						</div>
+  						<div class="tab-pane fade " id="adoptions">
+  							Adoptions
+  						</div>
+  						<div class="tab-pane fade " id="reviews">
+  							Reviews
+  						</div>
+  					</div>
+
+  				</div>
+
+
+  			</div>
+
+  			
+
+  		</div>
+  	</div>
+  	<script >
+  	$(".user-tabs li>a").click(function(e){
+  		e.preventDefault();
+  	});
+  	</script>
+  	<style>
+  	<style>
+  	.doggies{
+
+
+
+  		border-radius: 100px;
+  		height:200px;
+  		width:200px;
+
+
+
+  	}
+
+  	.photos{
+
+  		margin:10px;
+  		display: inline-block;
+
+  	}
+  	</style>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html ng-app="MyApp">
+<head>
+  <base href="/">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Animal Help</title>
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link href="stylesheets/style.css" rel="stylesheet">
+  <style>
+      .angular-google-map-container { height: 500px; }
+  </style>
+</head>
+<body>
+<div ng-controller="NavbarCtrl" class="navbar navbar-default navbar-fixed-top"
+     role="navigation" bs-navbar>
+
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">
+        <span class=" glyphicon glyphicon-heart"></span>
+        Animal<strong>Help</strong></a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li data-match-route="/$"><a href="/">Home</a></li>
+      <li data-match-route="/map"><a href="/map">Map</a></li>
+      <li data-match-route="/list"><a href="/list">Pets</a></li>
+    </ul>
+    <ul class="nav navbar-nav pull-right" ng-if="!currentUser">
+      <li data-match-route="/login"><a href="/login">Login</a></li>
+      <li data-match-route="/signup"><a href="/signup">Sign up</a></li>
+    </ul>
+    <ul class="nav navbar-nav pull-right" ng-if="currentUser">
+      <li> <a href="/user/{{currentUser._id}}" onclick='location.reload(true);'  ng-bind="currentUser.email"></a></li>
+      <li><a href="javascript:void(0)" ng-click="logout()">Logout</a></li>
+    </ul>
+</div>
+<div ng-view id="container"></div>  
+<script src= "vendor/jquery-1.11.1.min.js"> </script>
+<script src="vendor/bootstrap.min.js"></script>
+<script src="vendor/angular.js"></script>
+<script src="vendor/angular-strap.js"></script>
+<script src="vendor/angular-strap.tpl.js"></script>
+<script src="vendor/angular-messages.js"></script>
+<script src="vendor/angular-resource.js"></script>
+<script src="vendor/angular-route.js"></script>
+<script src="vendor/angular-cookies.js"></script>
+<script src= "vendor/typeahead.js"> </script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;language=en"></script> 
+<script src="vendor/lodash.min.js"></script>
+<script src="vendor/bluebird.js"></script>
+<script src="vendor/angular-google-maps.min.js"></script>
+<script src="vendor/angular-file-upload.min.js"></script>
+<script src="app.js"></script>
+<script src="filters/fromNow.js"></script>
+<script src="directives/repeatPassword.js"></script>
+<script src="services/show.js"></script>
+<script src="services/subscription.js"></script>
+<script src="services/auth.js"></script>
+<script src="services/place.js"></script>
+<script src="services/placeService.js"></script>
+<script src="controllers/main.js"></script>
+<script src="controllers/add.js"></script>
+<script src="controllers/addPlace.js"></script>
+<script src="controllers/detail.js"></script>
+<script src="controllers/navbar.js"></script>
+<script src="controllers/login.js"></script>
+<script src="controllers/signup.js"></script>
+<script src="controllers/map.js"></script>
+<script src="controllers/locationDetail.js"></script>
+<script src="services/pet.js"></script>
+<script src="controllers/list.js"></script>
+<script src="controllers/addPet.js"></script>
+<script src="controllers/petDetail.js"></script>
+<script src="services/petService.js"></script>
+<script src="services/petService.js"></script>
+<script src="services/user.js"></script>
+<script src="controllers/userDetail.js"></script>
+<style>
+  #container {
+    position: relative;
+    top: 80px;
+  }
+</style>
+<script>
+      window.fbAsyncInit = function() {
+       FB.init({
+          appId      : '785816961482777',
+          xfbml      : true,
+          version    : 'v2.2'
+    });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    
+    </script>
+</body>
+</html>

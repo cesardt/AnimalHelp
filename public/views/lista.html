@@ -1,0 +1,134 @@
+  <div class="container">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        Animals looking for family
+        <a class="btn btn-primary pull-right btn-sm btn-info" href="#/addPet" style="position: relative; bottom:6px;" ng-show="currentUser">Add new pet</a>
+        <a class="btn btn-primary pull-right btn-sm btn-danger" href="#/login" style="position: relative; bottom:6px;" ng-show="!currentUser">Log in to list a pet</a>
+      </div>
+      <div class="panel-body">
+
+        <div class="col-md-12" style="padding-left:400px;padding-top:20px;">
+          <div id="the-basics">
+
+            <form class="form-inline" role="form">
+             <div class="form-group">
+              <span class="glyphicon glyphicon-road"></span>
+              <input type="text" class="form-control typeahead" placeholder="Estado" >
+            </div>
+            <select class="form-control">
+              <option>Any species</option>
+              <option>Dog</option>
+              <option>Kitty</option>
+              <option>Ferret</option>
+              <option>Cathy Perry</option>
+            </select>
+          </form>
+        </div>
+      </div>
+
+
+
+      <div class="row placeholders" style="padding-top:80px"> <!--inicia listado de mascotas-->
+
+
+        <!--repetir de aqui-->  
+        <div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets">
+          <div class="photos">
+            <div class="doggies"  style="background: url(../images/doggie.jpg);background-size: 100%;" >
+            </div>
+          </div>
+          <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a></h4> <!--Redireccion de pagina -->
+        </div>
+        <!--hasta aqui--> 
+
+  
+</div> <!--finaliza listado de perritos-->
+
+</div>
+</div>
+</div>
+<style>
+.doggies{
+
+
+
+  border-radius: 100px;
+  height:200px;
+  width:200px;
+  
+  
+
+}
+
+.photos{
+
+  margin:10px;
+  display: inline-block;
+
+}
+.placeholder {
+  text-align: center;
+}
+
+.panel-heading .accordion-toggle:after {
+  /* symbol for "opening" panels */
+  font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+  content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+  float: right;        /* adjust as needed */
+  color: grey;         /* adjust as needed */
+}
+.panel-heading .accordion-toggle.collapsed:after {
+  /* symbol for "collapsed" panels */
+  content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}
+
+.thumbnail {margin-bottom:6px;}
+
+</style>
+<script>
+
+var substringMatcher = function(strs) {
+  return function findMatches(q, cb) {
+    var matches, substrRegex;
+
+// an array that will be populated with substring matches
+matches = [];
+
+// regex used to determine if a string contains the substring `q`
+substrRegex = new RegExp(q, 'i');
+
+// iterate through the pool of strings and for any string that
+// contains the substring `q`, add it to the `matches` array
+$.each(strs, function(i, str) {
+  if (substrRegex.test(str)) {
+// the typeahead jQuery plugin expects suggestions to a
+// JavaScript object, refer to typeahead docs for more info
+matches.push({ value: str });
+}
+});
+
+cb(matches);
+};
+};
+
+var states = ['Guadalajara'
+];
+
+$('#the-basics .typeahead').typeahead({
+  hint: true,
+  highlight: true,
+  minLength: 1
+},
+{
+  name: 'states',
+  displayKey: 'value',
+  source: substringMatcher(states)
+});
+
+$(".carousel-control").click(function(e){
+  e.preventDefault();
+});
+$(".accordion-toggle").click(function(e){
+  e.preventDefault();
+});
+</script>
