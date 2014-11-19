@@ -147,7 +147,9 @@ app.get('/api/map', function(req, res, next) {
 });
 app.get('/api/lista', function(req, res, next) {
   var query = Pet.find();
-  console.log(query);
+  if (req.query.species) {
+    query.where({ species: req.query.species });
+  }
   query.exec(function(err, pets) {
     if (err) return next(err);
     res.send(pets);
@@ -173,10 +175,14 @@ app.get('/api/lista/:id', function(req, res, next) {
   });
 });
 app.get('/api/user/:id', function(req, res, next) {
+  var query = Pet.find();
+  
   User.findById(req.params.id, function(err, user) {
-    if (err) return next(err);
+    if (err) return next(err);  
+      
     res.send(user);
   });
+
 });
 app.get('*', function(req, res) {
   res.redirect('/#' + req.originalUrl);
