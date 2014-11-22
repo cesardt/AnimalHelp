@@ -12,33 +12,13 @@ var _ = require('lodash');
 var session = require('express-session');
 var passport = require('passport');
 var LocalStrategy = require('passport-local').Strategy;
+var formidable = require('formidable');
+var fs   = require('fs-extra');
+var qt   = require('quickthumb');
+var util = require('util');
 
 var app = express();
 
-var showSchema = new mongoose.Schema({
-  _id: Number,
-  name: String,
-  airsDayOfWeek: String,
-  airsTime: String,
-  firstAired: Date,
-  genre: [String],
-  network: String,
-  overview: String,
-  rating: Number,
-  ratingCount: Number,
-  status: String,
-  poster: String,
-  subscribers: [{
-    type: mongoose.Schema.Types.ObjectId, ref: 'User'
-  }],
-  episodes: [{
-    season: Number,
-    episodeNumber: Number,
-    episodeName: String,
-    firstAired: Date,
-    overview: String
-  }]
-});
 var userSchema = new mongoose.Schema({
   email: { type: String, unique: true },
   password: String,
@@ -62,6 +42,18 @@ var petSchema = new mongoose.Schema({
   location: String
 });
 
+var citySchema = new mongoose.Schema({
+  state: String,
+  city: String
+});
+
+var reviewSchema = new mongoose.Schema({
+  title: String,
+  user: {type: mongoose.Schema.Types.ObjectId, ref: 'User'},
+  place: {type: mongoose.Schema.Types.ObjectId, ref: 'Place'},
+  stars: Number,
+  content: String
+});
 function ensureAuthenticated(req, res, next) {
   if (req.isAuthenticated()) next();
   else res.send(401);
@@ -89,9 +81,9 @@ userSchema.methods.comparePassword = function(candidatePassword, cb) {
 };
 
 var User = mongoose.model('User', userSchema);
-var Show = mongoose.model('Show', showSchema);
 var Place = mongoose.model('Place', placeSchema);
 var Pet = mongoose.model('Pet', petSchema);
+var Review = mongoose.model('Review', reviewSchema);
 
 mongoose.connect('localhost');
 
@@ -124,7 +116,40 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(session({ secret: 'keyboard cat' }));
 app.use(passport.initialize());
 app.use(passport.session());
-app.get('/api/shows', function(req, res, next) {
+app.use(qt.static(__dirname + '/'));
+
+app.post('/upload/:id', function (req, res){
+  var id = req.params.id;
+  uploadImage(req, res, "/public/images/pets",id);
+});
+
+uploadImage = function(req, res, dir, id){
+  var form = new formidable.IncomingForm();
+  form.parse(req, function(err, fields, files) {
+    res.writeHead(200, {'content-type': 'text/plain'});
+    res.write('received upload:\n\n');
+    res.end(util.inspect({fields: fields, files: files}));
+  });
+
+  form.on('end', function(fields, files) {
+    /* Temporary location of our uploaded file */
+    var temp_path = this.openedFiles[0].path;
+    /* The file name of the uploaded file */
+    var file_name = this.openedFiles[0].name;
+    /* Location where we want to copy the uploaded file */
+    var new_location = __dirname+dir;
+
+    fs.copy(temp_path, new_location +"/"+ id +"/"+ file_name, function(err) {  
+      if (err) {
+        console.error(err);
+      } else {
+        console.log("success!")
+      }
+    });
+  });
+}
+
+app.get('/lshows', function(req, res, next) {
   var query = Show.find();
   if (req.query.genre) {
     query.where({ genre: req.query.genre });
@@ -147,9 +172,21 @@ app.get('/api/map', function(req, res, next) {
 });
 app.get('/api/lista', function(req, res, next) {
   var query = Pet.find();
-  if (req.query.species) {
+
+  if(req.query.species && req.query.size){
+    query.where({species: req.query.species, size: req.query.size });
+  }
+  else if (req.query.species) {
     query.where({ species: req.query.species });
   }
+  else if(req.query.size) {
+    query.where({size: req.query.size});
+  }
+
+  if(req.query.user){
+    query.where({user: req.query.user});
+  }
+  
   query.exec(function(err, pets) {
     if (err) return next(err);
     res.send(pets);
@@ -175,11 +212,8 @@ app.get('/api/lista/:id', function(req, res, next) {
   });
 });
 app.get('/api/user/:id', function(req, res, next) {
-  var query = Pet.find();
-  
   User.findById(req.params.id, function(err, user) {
     if (err) return next(err);  
-      
     res.send(user);
   });
 
@@ -190,86 +224,6 @@ app.get('*', function(req, res) {
 app.use(function(err, req, res, next) {
   console.error(err.stack);
   res.send(500, { message: err.message });
-});
-
-app.post('/api/shows', function(req, res, next) {
-  var apiKey = '9EF1D1E7D28FDA0B';
-  var parser = xml2js.Parser({
-    explicitArray: false,
-    normalizeTags: true
-  });
-  var seriesName = req.body.showName
-  .toLowerCase()
-  .replace(/ /g, '_')
-  .replace(/[^\w-]+/g, '');
-  
-  async.waterfall([
-    function(callback) {
-      request.get('http://thetvdb.com/api/GetSeries.php?seriesname=' + seriesName, function(error, response, body) {
-        if (error) return next(error);
-        parser.parseString(body, function(err, result) {
-          if (!result.data.series) {
-            return res.send(404, { message: req.body.showName + ' was not found.' });
-          }
-          var seriesId = result.data.series.seriesid || result.data.series[0].seriesid;
-          callback(err, seriesId);
-        });
-      });
-    },
-    function(seriesId, callback) {
-      request.get('http://thetvdb.com/api/' + apiKey + '/series/' + seriesId + '/all/en.xml', function(error, response, body) {
-        if (error) return next(error);
-        parser.parseString(body, function(err, result) {
-          var series = result.data.series;
-          var episodes = result.data.episode;
-          var show = new Show({
-            _id: series.id,
-            name: series.seriesname,
-            airsDayOfWeek: series.airs_dayofweek,
-            airsTime: series.airs_time,
-            firstAired: series.firstaired,
-            genre: series.genre.split('|').filter(Boolean),
-            network: series.network,
-            overview: series.overview,
-            rating: series.rating,
-            ratingCount: series.ratingcount,
-            runtime: series.runtime,
-            status: series.status,
-            poster: series.poster,
-            episodes: []
-          });
-          _.each(episodes, function(episode) {
-            show.episodes.push({
-              season: episode.seasonnumber,
-              episodeNumber: episode.episodenumber,
-              episodeName: episode.episodename,
-              firstAired: episode.firstaired,
-              overview: episode.overview
-            });
-          });
-          callback(err, show);
-        });
-});
-},
-function(show, callback) {
-  var url = 'http://thetvdb.com/banners/' + show.poster;
-  request({ url: url, encoding: null }, function(error, response, body) {
-    show.poster = 'data:' + response.headers['content-type'] + ';base64,' + body.toString('base64');
-    callback(error, show);
-  });
-}
-], function(err, show) {
-  if (err) return next(err);
-  show.save(function(err) {
-    if (err) {
-      if (err.code == 11000) {
-        return res.send(409, { message: show.name + ' already exists.' });
-      }
-      return next(err);
-    }
-    res.send(200);
-  });
-});
 });
 
 app.post('/api/addPlace', function(req, res, next){
@@ -286,6 +240,24 @@ app.post('/api/addPlace', function(req, res, next){
     res.send(200);
   });
 });
+
+app.post('/api/addReview', function(req, res, next){
+  var user = new mongoose.Schema.ObjectId(req.body.user._id).path;
+  var pet = new Pet({
+    name: req.body.name,
+    description: req.body.description,
+    species: req.body.species,
+    size: req.body.size, 
+    location: req.body.location,
+    user: user
+  });
+  pet.save(function(err){
+    if(err) return next(err);
+    res.send(pet);
+  });
+
+});
+
 app.post('/api/addPet', function(req, res, next){
   var user = new mongoose.Schema.ObjectId(req.body.user._id).path;
   var pet = new Pet({
@@ -298,7 +270,7 @@ app.post('/api/addPet', function(req, res, next){
   });
   pet.save(function(err){
     if(err) return next(err);
-      res.send(200);
+    res.send(pet);
   });
 
 });
@@ -318,7 +290,7 @@ app.post('/api/signup', function(req, res, next) {
     isFacebook: isFacebook
   });
 
-    user.save(function(err) {
+  user.save(function(err) {
     if (err) return next(err);
 
     

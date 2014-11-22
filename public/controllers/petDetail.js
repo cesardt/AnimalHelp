@@ -4,4 +4,5 @@ angular.module('MyApp')
       Pet.get({ _id: $routeParams.id }, function(pet) {
         $scope.pet = pet;
       });
+
     }]);

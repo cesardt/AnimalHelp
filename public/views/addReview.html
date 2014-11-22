@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="panel panel-default">
+    <div class="panel-heading">Add new location</div>
+    <div class="panel-body">
+      <form class="form-horizontal" role="form" method="post" ng-submit="addPlace()" name="addForm">
+        <div class="form-group" ng-class="{ 'has-success' : addForm.showName.$valid && addForm.showName.$dirty, 'has-error' : addForm.showName.$invalid && addForm.showName.$dirty }">
+          <label for="placeName" class="col-sm-2 control-label">Name</label>
+          <div class="col-sm-10">
+            <input type="text" class="form-control" id="name" placeholder="Name of the place" ng-model="name">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="placeDescription" class="col-sm-2 control-label">Description</label>
+          <div class="col-sm-10">
+            <textarea class="form-control" rows="3" id="description" ng-model="description"></textarea>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">
+          <label class="control-label">Schedule</label>
+          </div>
+          <div class="col-md-2 col-xs-5">
+            <input type="text" class="form-control" placeholder="Time open" ng-model:"timeOpen">
+          </div>
+          <div class="col-md-2 col-xs-5">
+            <input type="text" class="form-control" placeholder="Time close" ng-model:"timeClose">
+          </div>
+        </div>
+        
+        <button type="submit" ng-disabled="addForm.$invalid"
+          class="btn btn-lg btn-primary pull-right">Add Review
+        </button>
+      </form>
+    </div>
+  </div>
+</div>

@@ -30,6 +30,10 @@ angular.module('MyApp', ['ngCookies', 'ngResource', 'ngMessages', 'ngRoute', 'mg
 		templateUrl: 'views/addPlace.html',
 		controller: 'AddPlaceCtrl'
 	})
+	.when('/addReview', {
+		templateUrl: 'views/addReview.html',
+		controller: 'AddReviewCtrl'
+	})
 	.when('/list', {
 		templateUrl: 'views/lista.html',
 		controller: 'ListCtrl'

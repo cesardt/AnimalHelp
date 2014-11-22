@@ -34,7 +34,7 @@
 
 
                   <!--repetir de aqui-->  
-                  <div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets">
+                  <div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets | filter: query">
                     <div class="photos">
                       <div class="doggies"  style="background: url(../images/doggie.jpg);background-size: 100%;" >
                       </div>
@@ -43,7 +43,7 @@
                   </div>
                   <!--hasta aqui--> 
 
-                  
+
                 </div> <!--finaliza listado de perritos-->
               </div>
               <div class="tab-pane fade " id="adoptions">
@@ -59,7 +59,7 @@
 
        </div>
 
-       
+
 
      </div>
    </div>

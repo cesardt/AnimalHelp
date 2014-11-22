@@ -51,7 +51,7 @@
         <div class='form-group'>
           <label for="location" class="col-sm-2 control-label">Add pictures</label>
           <div class="col-sm-10">
-            <input type="file" nv-file-select uploader="pictures" accept='images/*'><br/>
+            <input type="file" ng-file-select="onFileSelect($files)" multiple accept="image/*"><br/>
         <ul>
             <li ng-repeat="item in pictures.queue">
                 Name: <span ng-bind="item.file.name"></span><br/>

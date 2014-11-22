@@ -1,0 +1,9830 @@
+[
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Aguascalientes"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Asientos"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Calvillo"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Cos�o"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Jes�s Mar�a"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Pabell�n de Arteaga"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Rinc�n de Romos"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"San Jos� de Gracia"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"Tepezal�"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"El Llano"
+  },
+  {
+    "Entidad":"Aguascalientes",
+    "Municipio":"San Francisco de los Romo"
+  },
+  {
+    "Entidad":"Baja California",
+    "Municipio":"Ensenada"
+  },
+  {
+    "Entidad":"Baja California",
+    "Municipio":"Mexicali"
+  },
+  {
+    "Entidad":"Baja California",
+    "Municipio":"Tecate"
+  },
+  {
+    "Entidad":"Baja California",
+    "Municipio":"Tijuana"
+  },
+  {
+    "Entidad":"Baja California",
+    "Municipio":"Playas de Rosarito"
+  },
+  {
+    "Entidad":"Baja California Sur",
+    "Municipio":"Comond�"
+  },
+  {
+    "Entidad":"Baja California Sur",
+    "Municipio":"Muleg�"
+  },
+  {
+    "Entidad":"Baja California Sur",
+    "Municipio":"La Paz"
+  },
+  {
+    "Entidad":"Baja California Sur",
+    "Municipio":"Los Cabos"
+  },
+  {
+    "Entidad":"Baja California Sur",
+    "Municipio":"Loreto"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Calkin�"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Campeche"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Carmen"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Champot�n"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Hecelchak�n"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Hopelch�n"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Palizada"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Tenabo"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Esc�rcega"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Calakmul"
+  },
+  {
+    "Entidad":"Campeche",
+    "Municipio":"Candelaria"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Abasolo"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Acu�a"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Allende"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Arteaga"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Candela"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Casta�os"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Cuatro Ci�negas"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Escobedo"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Francisco I. Madero"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Frontera"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"General Cepeda"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Guerrero"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Hidalgo"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Jim�nez"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Ju�rez"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Lamadrid"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Matamoros"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Monclova"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Morelos"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"M�zquiz"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Nadadores"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Nava"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Ocampo"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Parras"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Piedras Negras"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Progreso"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Ramos Arizpe"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Sabinas"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Sacramento"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Saltillo"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"San Buenaventura"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"San Juan de Sabinas"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"San Pedro"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Sierra Mojada"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Torre�n"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Viesca"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Villa Uni�n"
+  },
+  {
+    "Entidad":"Coahuila de Zaragoza",
+    "Municipio":"Zaragoza"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Armer�a"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Colima"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Comala"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Coquimatl�n"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Cuauht�moc"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Ixtlahuac�n"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Manzanillo"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Minatitl�n"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Tecom�n"
+  },
+  {
+    "Entidad":"Colima",
+    "Municipio":"Villa de �lvarez"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Acacoyagua"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Acala"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Acapetahua"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Altamirano"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Amat�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Amatenango de la Frontera"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Amatenango del Valle"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Angel Albino Corzo"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Arriaga"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Bejucal de Ocampo"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Bella Vista"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Berrioz�bal"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Bochil"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"El Bosque"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Cacahoat�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Catazaj�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Cintalapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Coapilla"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Comit�n de Dom�nguez"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"La Concordia"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Copainal�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chalchihuit�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chamula"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chanal"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chapultenango"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chenalh�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chiapa de Corzo"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chiapilla"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chicoas�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chicomuselo"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Chil�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Escuintla"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Francisco Le�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Frontera Comalapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Frontera Hidalgo"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"La Grandeza"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Huehuet�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Huixt�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Huitiup�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Huixtla"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"La Independencia"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ixhuat�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ixtacomit�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ixtapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ixtapangajoya"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Jiquipilas"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Jitotol"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ju�rez"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Larr�inzar"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"La Libertad"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Mapastepec"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Las Margaritas"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Mazapa de Madero"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Mazat�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Metapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Mitontic"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Motozintla"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Nicol�s Ru�z"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ocosingo"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ocotepec"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ocozocoautla de Espinosa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ostuac�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Osumacinta"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Oxchuc"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Palenque"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Pantelh�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Pantepec"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Pichucalco"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Pijijiapan"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"El Porvenir"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Villa Comaltitl�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Pueblo Nuevo Solistahuac�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Ray�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Reforma"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Las Rosas"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Sabanilla"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Salto de Agua"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"San Crist�bal de las Casas"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"San Fernando"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Siltepec"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Simojovel"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Sital�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Socoltenango"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Solosuchiapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Soyal�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Suchiapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Suchiate"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Sunuapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tapachula"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tapalapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tapilula"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tecpat�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tenejapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Teopisca"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tila"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tonal�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Totolapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"La Trinitaria"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tumbal�"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tuxtla Guti�rrez"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tuxtla Chico"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tuzant�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Tzimol"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Uni�n Ju�rez"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Venustiano Carranza"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Villa Corzo"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Villaflores"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Yajal�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"San Lucas"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Zinacant�n"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"San Juan Cancuc"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Aldama"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Benem�rito de las Am�ricas"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Maravilla Tenejapa"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Marqu�s de Comillas"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Montecristo de Guerrero"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"San Andr�s Duraznal"
+  },
+  {
+    "Entidad":"Chiapas",
+    "Municipio":"Santiago el Pinar"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Ahumada"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Aldama"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Allende"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Aquiles Serd�n"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Ascensi�n"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Bach�niva"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Balleza"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Batopilas"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Bocoyna"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Buenaventura"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Camargo"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Carich�"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Casas Grandes"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Coronado"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Coyame del Sotol"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"La Cruz"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Cuauht�moc"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Cusihuiriachi"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Chihuahua"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Ch�nipas"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Delicias"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Dr. Belisario Dom�nguez"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Galeana"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Santa Isabel"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"G�mez Far�as"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Gran Morelos"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Guachochi"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Guadalupe"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Guadalupe y Calvo"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Guazapares"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Guerrero"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Hidalgo del Parral"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Huejotit�n"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Ignacio Zaragoza"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Janos"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Jim�nez"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Ju�rez"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Julimes"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"L�pez"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Madera"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Maguarichi"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Manuel Benavides"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Matach�"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Matamoros"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Meoqui"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Morelos"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Moris"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Namiquipa"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Nonoava"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Nuevo Casas Grandes"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Ocampo"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Ojinaga"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Praxedis G. Guerrero"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Riva Palacio"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Rosales"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Rosario"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"San Francisco de Borja"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"San Francisco de Conchos"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"San Francisco del Oro"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Santa B�rbara"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Satev�"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Saucillo"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Tem�sachic"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"El Tule"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Urique"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Uruachi"
+  },
+  {
+    "Entidad":"Chihuahua",
+    "Municipio":"Valle de Zaragoza"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Azcapotzalco"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Coyoac�n"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Cuajimalpa de Morelos"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Gustavo A. Madero"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Iztacalco"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Iztapalapa"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"La Magdalena Contreras"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Milpa Alta"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"�lvaro Obreg�n"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Tl�huac"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Tlalpan"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Xochimilco"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Benito Ju�rez"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Cuauht�moc"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Miguel Hidalgo"
+  },
+  {
+    "Entidad":"Distrito Federal",
+    "Municipio":"Venustiano Carranza"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Canatl�n"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Canelas"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Coneto de Comonfort"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Cuencam�"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Durango"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"General Sim�n Bol�var"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"G�mez Palacio"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Guadalupe Victoria"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Guanacev�"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Hidalgo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Ind�"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Lerdo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Mapim�"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Mezquital"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Nazas"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Nombre de Dios"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Ocampo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"El Oro"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Ot�ez"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"P�nuco de Coronado"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Pe��n Blanco"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Poanas"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Pueblo Nuevo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Rodeo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"San Bernardo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"San Dimas"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"San Juan de Guadalupe"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"San Juan del R�o"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"San Luis del Cordero"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"San Pedro del Gallo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Santa Clara"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Santiago Papasquiaro"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"S�chil"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Tamazula"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Tepehuanes"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Tlahualilo"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Topia"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Vicente Guerrero"
+  },
+  {
+    "Entidad":"Durango",
+    "Municipio":"Nuevo Ideal"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Abasolo"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Ac�mbaro"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"San Miguel de Allende"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Apaseo el Alto"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Apaseo el Grande"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Atarjea"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Celaya"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Manuel Doblado"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Comonfort"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Coroneo"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Cortazar"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Cuer�maro"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Doctor Mora"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Dolores Hidalgo Cuna de la Independencia Nacional"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Guanajuato"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Huan�maro"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Irapuato"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Jaral del Progreso"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Jer�cuaro"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Le�n"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Morole�n"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Ocampo"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"P�njamo"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Pueblo Nuevo"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Pur�sima del Rinc�n"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Romita"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Salamanca"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Salvatierra"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"San Diego de la Uni�n"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"San Felipe"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"San Francisco del Rinc�n"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"San Jos� Iturbide"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"San Luis de la Paz"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Santa Catarina"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Santa Cruz de Juventino Rosas"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Santiago Maravat�o"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Silao de la Victoria"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Tarandacuao"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Tarimoro"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Tierra Blanca"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Uriangato"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Valle de Santiago"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Victoria"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Villagr�n"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Xich�"
+  },
+  {
+    "Entidad":"Guanajuato",
+    "Municipio":"Yuriria"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Acapulco de Ju�rez"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Ahuacuotzingo"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Ajuchitl�n del Progreso"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Alcozauca de Guerrero"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Alpoyeca"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Apaxtla"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Arcelia"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Atenango del R�o"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Atlamajalcingo del Monte"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Atlixtac"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Atoyac de �lvarez"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Ayutla de los Libres"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Azoy�"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Benito Ju�rez"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Buenavista de Cu�llar"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Coahuayutla de Jos� Mar�a Izazaga"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Cocula"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Copala"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Copalillo"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Copanatoyac"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Coyuca de Ben�tez"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Coyuca de Catal�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Cuajinicuilapa"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Cual�c"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Cuautepec"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Cuetzala del Progreso"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Cutzamala de Pinz�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Chilapa de �lvarez"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Chilpancingo de los Bravo"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Florencio Villarreal"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"General Canuto A. Neri"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"General Heliodoro Castillo"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Huamuxtitl�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Huitzuco de los Figueroa"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Iguala de la Independencia"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Igualapa"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Ixcateopan de Cuauht�moc"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Zihuatanejo de Azueta"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Juan R. Escudero"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Leonardo Bravo"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Malinaltepec"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"M�rtir de Cuilapan"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Metlat�noc"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Mochitl�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Olinal�"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Ometepec"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Pedro Ascencio Alquisiras"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Petatl�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Pilcaya"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Pungarabato"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Quechultenango"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"San Luis Acatl�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"San Marcos"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"San Miguel Totolapan"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Taxco de Alarc�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tecoanapa"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"T�cpan de Galeana"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Teloloapan"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tepecoacuilco de Trujano"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tetipac"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tixtla de Guerrero"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tlacoachistlahuaca"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tlacoapa"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tlalchapa"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tlalixtaquilla de Maldonado"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tlapa de Comonfort"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Tlapehuala"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"La Uni�n de Isidoro Montes de Oca"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Xalpatl�huac"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Xochihuehuetl�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Xochistlahuaca"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Zapotitl�n Tablas"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Zir�ndaro"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Zitlala"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Eduardo Neri"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Acatepec"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Marquelia"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Cochoapa el Grande"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Jos� Joaqu�n de Herrera"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Juchit�n"
+  },
+  {
+    "Entidad":"Guerrero",
+    "Municipio":"Iliatenco"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Acatl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Acaxochitl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Actopan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Agua Blanca de Iturbide"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Ajacuba"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Alfajayucan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Almoloya"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Apan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"El Arenal"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Atitalaquia"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Atlapexco"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Atotonilco el Grande"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Atotonilco de Tula"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Calnali"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Cardonal"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Cuautepec de Hinojosa"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Chapantongo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Chapulhuac�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Chilcuautla"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Eloxochitl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Emiliano Zapata"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Epazoyucan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Francisco I. Madero"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Huasca de Ocampo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Huautla"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Huazalingo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Huehuetla"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Huejutla de Reyes"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Huichapan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Ixmiquilpan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Jacala de Ledezma"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Jaltoc�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Ju�rez Hidalgo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Lolotla"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Metepec"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"San Agust�n Metzquititl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Metztitl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Mineral del Chico"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Mineral del Monte"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"La Misi�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Mixquiahuala de Ju�rez"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Molango de Escamilla"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Nicol�s Flores"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Nopala de Villagr�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Omitl�n de Ju�rez"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"San Felipe Orizatl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Pacula"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Pachuca de Soto"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Pisaflores"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Progreso de Obreg�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Mineral de la Reforma"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"San Agust�n Tlaxiaca"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"San Bartolo Tutotepec"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"San Salvador"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Santiago de Anaya"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Santiago Tulantepec de Lugo Guerrero"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Singuilucan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tasquillo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tecozautla"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tenango de Doria"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tepeapulco"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tepehuac�n de Guerrero"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tepeji del R�o de Ocampo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tepetitl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tetepango"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Villa de Tezontepec"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tezontepec de Aldama"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tianguistengo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tizayuca"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tlahuelilpan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tlahuiltepa"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tlanalapa"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tlanchinol"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tlaxcoapan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tolcayuca"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tula de Allende"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Tulancingo de Bravo"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Xochiatipan"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Xochicoatl�n"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Yahualica"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Zacualtip�n de �ngeles"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Zapotl�n de Ju�rez"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Zempoala"
+  },
+  {
+    "Entidad":"Hidalgo",
+    "Municipio":"Zimap�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Acatic"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Acatl�n de Ju�rez"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ahualulco de Mercado"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Amacueca"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Amatit�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ameca"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Juanito de Escobedo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Arandas"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"El Arenal"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Atemajac de Brizuela"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Atengo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Atenguillo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Atotonilco el Alto"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Atoyac"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Autl�n de Navarro"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ayotl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ayutla"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"La Barca"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Bola�os"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Cabo Corrientes"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Casimiro Castillo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Cihuatl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Zapotl�n el Grande"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Cocula"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Colotl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Concepci�n de Buenos Aires"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Cuautitl�n de Garc�a Barrag�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Cuautla"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Cuqu�o"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Chapala"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Chimaltit�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Chiquilistl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Degollado"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ejutla"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Encarnaci�n de D�az"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Etzatl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"El Grullo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Guachinango"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Guadalajara"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Hostotipaquillo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Huej�car"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Huejuquilla el Alto"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"La Huerta"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ixtlahuac�n de los Membrillos"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ixtlahuac�n del R�o"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Jalostotitl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Jamay"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Jes�s Mar�a"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Jilotl�n de los Dolores"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Jocotepec"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Juanacatl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Juchitl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Lagos de Moreno"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"El Lim�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Magdalena"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Santa Mar�a del Oro"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"La Manzanilla de la Paz"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Mascota"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Mazamitla"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Mexticac�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Mezquitic"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Mixtl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ocotl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ojuelos de Jalisco"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Pihuamo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Poncitl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Puerto Vallarta"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Villa Purificaci�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Quitupan"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"El Salto"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Crist�bal de la Barranca"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Diego de Alejandr�a"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Juan de los Lagos"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Juli�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Marcos"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Mart�n de Bola�os"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Mart�n Hidalgo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Miguel el Alto"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"G�mez Far�as"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Sebasti�n del Oeste"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Santa Mar�a de los �ngeles"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Sayula"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tala"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Talpa de Allende"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tamazula de Gordiano"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tapalpa"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tecalitl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tecolotl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Techaluta de Montenegro"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tenamaxtl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Teocaltiche"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Teocuitatl�n de Corona"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tepatitl�n de Morelos"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tequila"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Teuchitl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tizap�n el Alto"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tlajomulco de Z��iga"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Pedro Tlaquepaque"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tolim�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tomatl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tonal�"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tonaya"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tonila"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Totatiche"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tototl�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tuxcacuesco"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tuxcueca"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Tuxpan"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Uni�n de San Antonio"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Uni�n de Tula"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Valle de Guadalupe"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Valle de Ju�rez"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Gabriel"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Villa Corona"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Villa Guerrero"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Villa Hidalgo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Ca�adas de Obreg�n"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Yahualica de Gonz�lez Gallo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Zacoalco de Torres"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Zapopan"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Zapotiltic"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Zapotitl�n de Vadillo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Zapotl�n del Rey"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"Zapotlanejo"
+  },
+  {
+    "Entidad":"Jalisco",
+    "Municipio":"San Ignacio Cerro Gordo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Acambay de Ru�z Casta�eda"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Acolman"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Aculco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Almoloya de Alquisiras"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Almoloya de Ju�rez"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Almoloya del R�o"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Amanalco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Amatepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Amecameca"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Apaxco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Atenco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Atizap�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Atizap�n de Zaragoza"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Atlacomulco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Atlautla"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Axapusco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ayapango"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Calimaya"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Capulhuac"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Coacalco de Berrioz�bal"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Coatepec Harinas"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Cocotitl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Coyotepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Cuautitl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Chalco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Chapa de Mota"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Chapultepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Chiautla"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Chicoloapan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Chiconcuac"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Chimalhuac�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Donato Guerra"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ecatepec de Morelos"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ecatzingo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Huehuetoca"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Hueypoxtla"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Huixquilucan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Isidro Fabela"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ixtapaluca"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ixtapan de la Sal"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ixtapan del Oro"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ixtlahuaca"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Xalatlaco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Jaltenco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Jilotepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Jilotzingo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Jiquipilco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Jocotitl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Joquicingo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Juchitepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Lerma"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Malinalco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Melchor Ocampo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Metepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Mexicaltzingo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Morelos"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Naucalpan de Ju�rez"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Nezahualc�yotl"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Nextlalpan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Nicol�s Romero"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Nopaltepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ocoyoacac"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ocuilan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"El Oro"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Otumba"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Otzoloapan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Otzolotepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ozumba"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Papalotla"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"La Paz"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Polotitl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Ray�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"San Antonio la Isla"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"San Felipe del Progreso"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"San Mart�n de las Pir�mides"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"San Mateo Atenco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"San Sim�n de Guerrero"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Santo Tom�s"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Soyaniquilpan de Ju�rez"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Sultepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tec�mac"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tejupilco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Temamatla"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Temascalapa"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Temascalcingo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Temascaltepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Temoaya"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tenancingo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tenango del Aire"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tenango del Valle"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Teoloyucan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Teotihuac�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tepetlaoxtoc"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tepetlixpa"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tepotzotl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tequixquiac"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Texcaltitl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Texcalyacac"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Texcoco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tezoyuca"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tianguistenco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Timilpan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tlalmanalco"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tlalnepantla de Baz"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tlatlaya"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Toluca"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tonatico"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tultepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tultitl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Valle de Bravo"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Villa de Allende"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Villa del Carb�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Villa Guerrero"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Villa Victoria"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Xonacatl�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Zacazonapan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Zacualpan"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Zinacantepec"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Zumpahuac�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Zumpango"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Cuautitl�n Izcalli"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Valle de Chalco Solidaridad"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Luvianos"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"San Jos� del Rinc�n"
+  },
+  {
+    "Entidad":"M�xico",
+    "Municipio":"Tonanitla"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Acuitzio"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Aguililla"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"�lvaro Obreg�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Angamacutiro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Angangueo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Apatzing�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Aporo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Aquila"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Ario"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Arteaga"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Brise�as"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Buenavista"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Car�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Coahuayana"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Coalcom�n de V�zquez Pallares"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Coeneo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Contepec"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Cop�ndaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Cotija"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Cuitzeo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Charapan"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Charo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Chavinda"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Cher�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Chilchota"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Chinicuila"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Chuc�ndiro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Churintzio"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Churumuco"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Ecuandureo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Epitacio Huerta"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Erongar�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Gabriel Zamora"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Hidalgo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"La Huacana"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Huandacareo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Huaniqueo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Huetamo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Huiramba"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Indaparapeo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Irimbo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Ixtl�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Jacona"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Jim�nez"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Jiquilpan"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Ju�rez"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Jungapeo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Lagunillas"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Madero"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Maravat�o"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Marcos Castellanos"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"L�zaro C�rdenas"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Morelia"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Morelos"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"M�gica"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Nahuatzen"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Nocup�taro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Nuevo Parangaricutiro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Nuevo Urecho"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Numar�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Ocampo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Pajacuar�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Panind�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Par�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Paracho"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"P�tzcuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Penjamillo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Perib�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"La Piedad"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Pur�pero"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Puru�ndiro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Quer�ndaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Quiroga"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Cojumatl�n de R�gules"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Los Reyes"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Sahuayo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"San Lucas"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Santa Ana Maya"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Salvador Escalante"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Senguio"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Susupuato"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tac�mbaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tanc�taro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tangamandapio"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tanganc�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tanhuato"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Taretan"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tar�mbaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tepalcatepec"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tingambato"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Ting?ind�n"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tiquicheo de Nicol�s Romero"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tlalpujahua"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tlazazalca"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tocumbo"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tumbiscat�o"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Turicato"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tuxpan"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tuzantla"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tzintzuntzan"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Tzitzio"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Uruapan"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Venustiano Carranza"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Villamar"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Vista Hermosa"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Yur�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Zacapu"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Zamora"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Zin�paro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Zinap�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Ziracuaretiro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Zit�cuaro"
+  },
+  {
+    "Entidad":"Michoac�n de Ocampo",
+    "Municipio":"Jos� Sixto Verduzco"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Amacuzac"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Atlatlahucan"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Axochiapan"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Ayala"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Coatl�n del R�o"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Cuautla"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Cuernavaca"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Emiliano Zapata"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Huitzilac"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Jantetelco"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Jiutepec"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Jojutla"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Jonacatepec"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Mazatepec"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Miacatl�n"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Ocuituco"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Puente de Ixtla"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Temixco"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tepalcingo"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tepoztl�n"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tetecala"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tetela del Volc�n"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tlalnepantla"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tlaltizap�n de Zapata"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tlaquiltenango"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Tlayacapan"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Totolapan"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Xochitepec"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Yautepec"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Yecapixtla"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Zacatepec"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Zacualpan de Amilpas"
+  },
+  {
+    "Entidad":"Morelos",
+    "Municipio":"Temoac"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Acaponeta"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Ahuacatl�n"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Amatl�n de Ca�as"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Compostela"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Huajicori"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Ixtl�n del R�o"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Jala"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Xalisco"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Del Nayar"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Rosamorada"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Ru�z"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"San Blas"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"San Pedro Lagunillas"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Santa Mar�a del Oro"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Santiago Ixcuintla"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Tecuala"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Tepic"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Tuxpan"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"La Yesca"
+  },
+  {
+    "Entidad":"Nayarit",
+    "Municipio":"Bah�a de Banderas"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Abasolo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Agualeguas"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Los Aldamas"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Allende"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"An�huac"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Apodaca"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Aramberri"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Bustamante"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Cadereyta Jim�nez"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"El Carmen"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Cerralvo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Ci�nega de Flores"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"China"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Doctor Arroyo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Doctor Coss"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Doctor Gonz�lez"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Galeana"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Garc�a"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"San Pedro Garza Garc�a"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"General Bravo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"General Escobedo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"General Ter�n"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"General Trevi�o"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"General Zaragoza"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"General Zuazua"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Guadalupe"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Los Herreras"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Higueras"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Hualahuises"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Iturbide"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Ju�rez"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Lampazos de Naranjo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Linares"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Mar�n"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Melchor Ocampo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Mier y Noriega"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Mina"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Montemorelos"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Monterrey"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Par�s"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Pesquer�a"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Los Ramones"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Rayones"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Sabinas Hidalgo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Salinas Victoria"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"San Nicol�s de los Garza"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Hidalgo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Santa Catarina"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Santiago"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Vallecillo"
+  },
+  {
+    "Entidad":"Nuevo Le�n",
+    "Municipio":"Villaldama"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Abejones"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Acatl�n de P�rez Figueroa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Asunci�n Cacalotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Asunci�n Cuyotepeji"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Asunci�n Ixtaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Asunci�n Nochixtl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Asunci�n Ocotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Asunci�n Tlacolulita"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Ayotzintepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"El Barrio de la Soledad"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Calihual�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Candelaria Loxicha"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Ci�nega de Zimatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Ciudad Ixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Coatecas Altas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Coicoy�n de las Flores"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"La Compa��a"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Concepci�n Buenavista"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Concepci�n P�palo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Constancia del Rosario"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Cosolapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Cosoltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Cuil�pam de Guerrero"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Cuyamecalco Villa de Zaragoza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Chahuites"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Chalcatongo de Hidalgo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Chiquihuitl�n de Benito Ju�rez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Heroica Ciudad de Ejutla de Crespo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Eloxochitl�n de Flores Mag�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"El Espinal"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Tamazul�pam del Esp�ritu Santo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Fresnillo de Trujano"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Guadalupe Etla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Guadalupe de Ram�rez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Guelatao de Ju�rez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Guevea de Humboldt"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Mesones Hidalgo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa Hidalgo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Heroica Ciudad de Huajuapan de Le�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Huautepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Huautla de Jim�nez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Ixtl�n de Ju�rez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Heroica Ciudad de Juchit�n de Zaragoza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Loma Bonita"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Apasco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Jaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Magdalena Jicotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Ocotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Pe�asco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Teitipac"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Tequisistl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Tlacotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Zahuatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Mariscala de Ju�rez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"M�rtires de Tacubaya"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Mat�as Romero Avenda�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Mazatl�n Villa de Flores"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Miahuatl�n de Porfirio D�az"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Mixistl�n de la Reforma"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Monjas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Natividad"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Nazareno Etla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Nejapa de Madero"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Ixpantepec Nieves"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Niltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Oaxaca de Ju�rez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Ocotl�n de Morelos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"La Pe"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Pinotepa de Don Luis"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Pluma Hidalgo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� del Progreso"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Putla Villa de Guerrero"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Quioquitani"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Reforma de Pineda"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"La Reforma"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Reyes Etla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Rojas de Cuauht�moc"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Salina Cruz"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n Amatengo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n Atenango"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n Chayuco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n de las Juntas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n Etla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n Loxicha"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n Tlacotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Agust�n Yatareni"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Cabecera Nueva"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Dinicuiti"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Huaxpaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Huay�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Ixtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Lagunas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Nuxi�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Paxtl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Sinaxtla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Solaga"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Teotil�lpam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Tepetlapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Ya�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Zabache"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Andr�s Zautla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonino Castillo Velasco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonino el Alto"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonino Monte Verde"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonio Acutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonio de la Cal"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonio Huitepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonio Nanahuat�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonio Sinicahua"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Antonio Tepetlapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Baltazar Chichic�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Baltazar Loxicha"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Baltazar Yatzachi el Bajo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolo Coyotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolom� Ayautla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolom� Loxicha"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolom� Quialana"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolom� Yucua�e"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolom� Zoogocho"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolo Soyaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bartolo Yautepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Bernardo Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Blas Atempa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Carlos Yautepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Crist�bal Amatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Crist�bal Amoltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Crist�bal Lachirioag"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Crist�bal Suchixtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Dionisio del Mar"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Dionisio Ocotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Dionisio Ocotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Esteban Atatlahuca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Felipe Jalapa de D�az"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Felipe Tejal�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Felipe Usila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Cahuacu�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Cajonos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Chapulapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Chind�a"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco del Mar"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Huehuetl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Ixhuat�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Jaltepetongo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Lachigol�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Logueche"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Nuxa�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Ozolotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Sola"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Telixtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Teopan"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Francisco Tlapancingo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Gabriel Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Ildefonso Amatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Ildefonso Sola"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Ildefonso Villa Alta"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jacinto Amilpas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jacinto Tlacotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jer�nimo Coatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jer�nimo Silacayoapilla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jer�nimo Sosola"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jer�nimo Taviche"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jer�nimo Tec�atl"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jorge Nuchita"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� Ayuquila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� Chiltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� del Pe�asco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� Estancia Grande"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� Independencia"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� Lachiguiri"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jos� Tenango"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Achiutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Atepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"�nimas Trujano"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Atatlahuca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Coixtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Cuicatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Guelache"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Jayacatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Lo de Soto"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Suchitepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Tlacoatzintepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Tlachichilco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Tuxtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Cacahuatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Cieneguilla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Coatz�spam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Colorado"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Comaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Cotzoc�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Chicomez�chil"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Chilateca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan del Estado"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan del R�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Diuxi"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Evangelista Analco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Guelav�a"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Guichicovi"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Ihualtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Juquila Mixes"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Juquila Vijanos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Lachao"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Lachigalla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Lajarcia"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Lalana"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan de los Cu�s"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Mazatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan ?um�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Ozolotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Petlapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Quiahije"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Quiotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Sayultepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Taba�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Tamazola"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Teita"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Teitipac"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Tepeuxila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Teposcolula"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Yae�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Yatzona"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Yucuita"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lorenzo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lorenzo Albarradas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lorenzo Cacaotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lorenzo Cuaunecuiltitla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lorenzo Texmel�can"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lorenzo Victoria"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lucas Camotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lucas Ojitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lucas Quiavin�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Lucas Zoqui�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Luis Amatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Marcial Ozolotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Marcos Arteaga"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n de los Cansecos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n Huamel�lpam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n Itunyoso"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n Lachil�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n Peras"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n Tilcajete"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n Toxpalan"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mart�n Zacatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Cajonos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Capul�lpam de M�ndez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo del Mar"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Yoloxochitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Etlatongo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Nej�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Pe�asco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Pi�as"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo R�o Hondo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Sindihui"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Tlapiltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Melchor Betaza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Achiutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Ahuehuetitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Alo�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Amatitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Amatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Coatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Chicahua"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Chimalapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel del Puerto"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel del R�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Ejutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel el Grande"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Huautla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Panixtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Peras"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Piedras"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Quetzaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Santa Flor"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa Sola de Vega"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Soyaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Suchixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa Talea de Castro"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Tecomatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Tenango"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Tequixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Tilqui�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Tlacamama"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Tlacotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Tulancingo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Miguel Yotao"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Nicol�s"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Nicol�s Hidalgo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Coatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Cuatro Venados"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Etla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Huitzo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Huixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Macuiltianguis"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Tijaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Villa de Mitla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pablo Yaganiza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Amuzgos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Ap�stol"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Atoyac"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Cajonos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Coxcaltepec C�ntaros"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Comitancillo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro el Alto"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Huamelula"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Huilotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Ixcatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Ixtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Jaltepetongo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Jicay�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Jocotipac"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Juchatengo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro M�rtir"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro M�rtir Quiechapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro M�rtir Yucuxaco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Molinos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Nopala"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Ocopetatillo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Ocotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Pochutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Quiatoni"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Sochi�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Tapanatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Taviche"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Teozacoalco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Teutila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Tida�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Topiltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Totol�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa de Tututepec de Melchor Ocampo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Yaneri"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Y�lox"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro y San Pablo Ayutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa de Etla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro y San Pablo Teposcolula"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro y San Pablo Tequixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Pedro Yucunama"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Raymundo Jalpan"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n Abasolo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n Coatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n Ixcapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n Nicananduta"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n R�o Hondo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n Tecomaxtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n Teitipac"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sebasti�n Tutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sim�n Almolongas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Sim�n Zahuatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana Ateixtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana Cuauht�moc"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana del Valle"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana Tavela"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana Tlapacoyan"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana Yareni"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Ana Zegache"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catalina Quier�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Cuixtla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Ixtepeji"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Juquila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Lachatao"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Loxicha"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Mechoac�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Minas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Quian�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Tayata"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Ticu�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Yosonot�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Catarina Zapoquila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Acatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Amilpas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz de Bravo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Itundujia"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Mixtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Nundaco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Papalutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Tacache de Mina"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Tacahua"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Tayata"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Xitla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Xoxocotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Cruz Zenzontepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Gertrudis"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa In�s del Monte"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa In�s Yatzeche"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Luc�a del Camino"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Luc�a Miahuatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Luc�a Monteverde"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Luc�a Ocotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Alotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Apazco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a la Asunci�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Heroica Ciudad de Tlaxiaco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Ayoquezco de Aldama"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Atzompa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Camotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Colotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Cortijo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Coyotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Chacho�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa de Chilapa de D�az"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Chilchotla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Chimalapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a del Rosario"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a del Tule"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Ecatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Guelac�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Guienagati"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Huatulco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Huazolotitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Ipalapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Ixcatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Jacatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Jalapa del Marqu�s"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Jaltianguis"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Lachix�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Mixtequilla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Nativitas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Nduayaco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Ozolotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a P�palo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Pe�oles"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Petapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Quiegolani"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Sola"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Tataltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Tecomavaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Temaxcalapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Temaxcaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Teopoxco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Tepantlali"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Texcatitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Tlahuitoltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Tlalixtac"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Tonameca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Totolapilla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Xadani"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Yalina"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Yaves�a"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Yolotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Yosoy�a"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Yucuhiti"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Zacatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Zaniza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa Mar�a Zoquitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Amoltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Apoala"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Ap�stol"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Astata"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Atitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Ayuquililla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Cacaloxtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Camotl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Comaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Chazumba"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Cho�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago del R�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Huajolotitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Huauclilla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Ihuitl�n Plumas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Ixcuintepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Ixtayutla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Jamiltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Jocotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Juxtlahuaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Lachiguiri"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Lalopa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Laollaga"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Laxopa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Llano Grande"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Matatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Miltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Minas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Nacaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Nejapilla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Nundiche"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Nuyo�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Pinotepa Nacional"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Suchilquitongo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tamazola"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tapextla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa Tej�pam de la Uni�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tenango"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tepetlapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tetepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Texcalcingo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Textitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tilantongo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tillo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Tlazoyaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Xanica"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Xiacu�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Yaitepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Yaveo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Yolom�catl"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Yosond�a"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Yucuyachi"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Zacatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santiago Zoochila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Nuevo Zoqui�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Ingenio"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Albarradas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Armenta"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Chihuit�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo de Morelos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Ixcatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Nuxa�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Ozolotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Petapa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Roayaga"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Tehuantepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Teojomulco"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Tepuxtepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Tlatay�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Tomaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Tonal�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Tonaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Xagac�a"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Yanhuitl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Yodohino"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Domingo Zanatepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santos Reyes Nopala"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santos Reyes P�palo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santos Reyes Tepejillo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santos Reyes Yucun�"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Tom�s Jalieza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Tom�s Mazaltepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Tom�s Ocotepec"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santo Tom�s Tamazulapan"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Vicente Coatl�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Vicente Lachix�o"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Vicente Nu��"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Silacayo�pam"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Sitio de Xitlapehua"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Soledad Etla"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa de Tamazul�pam del Progreso"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Tanetze de Zaragoza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Taniche"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Tataltepec de Vald�s"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Teococuilco de Marcos P�rez"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Teotitl�n de Flores Mag�n"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Teotitl�n del Valle"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Teotongo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Tepelmeme Villa de Morelos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Heroica Villa Tezoatl�n de Segura y Luna, Cuna de la Independencia de Oaxaca"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Jer�nimo Tlacochahuaya"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Tlacolula de Matamoros"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Tlacotepec Plumas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Tlalixtac de Cabrera"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Totontepec Villa de Morelos"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Trinidad Zaachila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"La Trinidad Vista Hermosa"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Uni�n Hidalgo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Valerio Trujano"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Juan Bautista Valle Nacional"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa D�az Ordaz"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Yaxe"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Magdalena Yodocono de Porfirio D�az"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Yogana"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Yutanduchi de Guerrero"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Villa de Zaachila"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"San Mateo Yucutindoo"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Zapotitl�n Lagunas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Zapotitl�n Palmas"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Santa In�s de Zaragoza"
+  },
+  {
+    "Entidad":"Oaxaca",
+    "Municipio":"Zimatl�n de �lvarez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Acajete"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Acateno"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Acatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Acatzingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Acteopan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ahuacatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ahuatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ahuazotepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ahuehuetitla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ajalpan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Albino Zertuche"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Aljojuca"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Altepexi"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Amixtl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Amozoc"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Aquixtla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atempan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atexcal"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atlixco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atoyatempan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atzala"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atzitzihuac�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atzitzintla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Axutla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ayotoxco de Guerrero"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Calpan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Caltepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Camocuautla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Caxhuacan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Coatepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Coatzingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cohetzala"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cohuecan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Coronango"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Coxcatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Coyomeapan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Coyotepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cuapiaxtla de Madero"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cuautempan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cuautinch�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cuautlancingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cuayuca de Andrade"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cuetzalan del Progreso"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Cuyoaco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chalchicomula de Sesma"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chapulco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chiautla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chiautzingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chiconcuautla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chichiquila"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chietla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chigmecatitl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chignahuapan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chignautla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chila"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chila de la Sal"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Honey"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chilchotla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Chinantla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Domingo Arenas"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Eloxochitl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Epatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Esperanza"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Francisco Z. Mena"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"General Felipe �ngeles"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Guadalupe"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Guadalupe Victoria"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Hermenegildo Galeana"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huaquechula"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huatlatlauca"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huauchinango"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huehuetla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huehuetl�n el Chico"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huejotzingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Hueyapan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Hueytamalco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Hueytlalpan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huitzilan de Serd�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huitziltepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Atlequizayan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ixcamilpa de Guerrero"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ixcaquixtla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ixtacamaxtitl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ixtepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Iz�car de Matamoros"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Jalpan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Jolalpan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Jonotla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Jopala"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Juan C. Bonilla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Juan Galindo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Juan N. M�ndez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Lafragua"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Libres"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"La Magdalena Tlatlauquitepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Mazapiltepec de Ju�rez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Mixtla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Molcaxac"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ca�ada Morelos"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Naupan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Nauzontla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Nealtican"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Nicol�s Bravo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Nopalucan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ocotepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Ocoyucan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Olintla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Oriental"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Pahuatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Palmar de Bravo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Pantepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Petlalcingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Piaxtla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Puebla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Quecholac"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Quimixtl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Rafael Lara Grajales"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Los Reyes de Ju�rez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Andr�s Cholula"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Antonio Ca�ada"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Diego la Mesa Tochimiltzingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Felipe Teotlalcingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Felipe Tepatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Gabriel Chilac"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Gregorio Atzompa"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Jer�nimo Tecuanipan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Jer�nimo Xayacatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Jos� Chiapa"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Jos� Miahuatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Juan Atenco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Juan Atzompa"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Mart�n Texmelucan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Mart�n Totoltepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Mat�as Tlalancaleca"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Miguel Ixitl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Miguel Xoxtla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Nicol�s Buenos Aires"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Nicol�s de los Ranchos"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Pablo Anicano"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Pedro Cholula"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Pedro Yeloixtlahuaca"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Salvador el Seco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Salvador el Verde"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Salvador Huixcolotla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"San Sebasti�n Tlacotepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Santa Catarina Tlaltempan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Santa In�s Ahuatempan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Santa Isabel Cholula"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Santiago Miahuatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Huehuetl�n el Grande"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Santo Tom�s Hueyotlipan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Soltepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tecali de Herrera"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tecamachalco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tecomatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tehuac�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tehuitzingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tenampulco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Teopantl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Teotlalco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepanco de L�pez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepango de Rodr�guez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepatlaxco de Hidalgo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepeaca"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepemaxalco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepeojuma"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepetzintla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepexco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepexi de Rodr�guez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepeyahualco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tepeyahualco de Cuauht�moc"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tetela de Ocampo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Teteles de Avila Castillo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Teziutl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tianguismanalco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tilapa"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlacotepec de Benito Ju�rez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlacuilotepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlachichuca"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlahuapan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlaltenango"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlanepantla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlaola"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlapacoya"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlapanal�"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlatlauquitepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tlaxco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tochimilco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tochtepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Totoltepec de Guerrero"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tulcingo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tuzamapan de Galeana"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Tzicatlacoyan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Venustiano Carranza"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Vicente Guerrero"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xayacatl�n de Bravo"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xicotepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xicotl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xiutetelco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xochiapulco"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xochiltepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xochitl�n de Vicente Su�rez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Xochitl�n Todos Santos"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Yaon�huac"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Yehualtepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zacapala"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zacapoaxtla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zacatl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zapotitl�n"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zapotitl�n de M�ndez"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zaragoza"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zautla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zihuateutla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zinacatepec"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zongozotla"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zoquiapan"
+  },
+  {
+    "Entidad":"Puebla",
+    "Municipio":"Zoquitl�n"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Amealco de Bonfil"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Pinal de Amoles"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Arroyo Seco"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Cadereyta de Montes"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Col�n"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Corregidora"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Ezequiel Montes"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Huimilpan"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Jalpan de Serra"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Landa de Matamoros"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"El Marqu�s"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Pedro Escobedo"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Pe�amiller"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Quer�taro"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"San Joaqu�n"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"San Juan del R�o"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Tequisquiapan"
+  },
+  {
+    "Entidad":"Quer�taro",
+    "Municipio":"Tolim�n"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Cozumel"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Felipe Carrillo Puerto"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Isla Mujeres"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Oth�n P. Blanco"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Benito Ju�rez"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Jos� Mar�a Morelos"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"L�zaro C�rdenas"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Solidaridad"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Tulum"
+  },
+  {
+    "Entidad":"Quintana Roo",
+    "Municipio":"Bacalar"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Ahualulco"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Alaquines"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Aquism�n"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Armadillo de los Infante"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"C�rdenas"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Catorce"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Cedral"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Cerritos"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Cerro de San Pedro"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Ciudad del Ma�z"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Ciudad Fern�ndez"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tancanhuitz"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Ciudad Valles"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Coxcatl�n"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Charcas"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Ebano"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Guadalc�zar"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Huehuetl�n"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Lagunillas"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Matehuala"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Mexquitic de Carmona"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Moctezuma"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Ray�n"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Rioverde"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Salinas"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"San Antonio"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"San Ciro de Acosta"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"San Luis Potos�"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"San Mart�n Chalchicuautla"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"San Nicol�s Tolentino"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Santa Catarina"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Santa Mar�a del R�o"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Santo Domingo"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"San Vicente Tancuayalab"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Soledad de Graciano S�nchez"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tamasopo"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tamazunchale"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tampac�n"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tampamol�n Corona"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tamu�n"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tanlaj�s"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tanqui�n de Escobedo"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Tierra Nueva"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Vanegas"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Venado"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa de Arriaga"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa de Guadalupe"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa de la Paz"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa de Ramos"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa de Reyes"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa Hidalgo"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa Ju�rez"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Axtla de Terrazas"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Xilitla"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Zaragoza"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Villa de Arista"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"Matlapa"
+  },
+  {
+    "Entidad":"San Luis Potos�",
+    "Municipio":"El Naranjo"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Ahome"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Angostura"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Badiraguato"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Concordia"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Cosal�"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Culiac�n"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Choix"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Elota"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Escuinapa"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"El Fuerte"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Guasave"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Mazatl�n"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Mocorito"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Rosario"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Salvador Alvarado"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"San Ignacio"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Sinaloa"
+  },
+  {
+    "Entidad":"Sinaloa",
+    "Municipio":"Navolato"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Aconchi"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Agua Prieta"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Alamos"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Altar"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Arivechi"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Arizpe"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Atil"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Bacad�huachi"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Bacanora"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Bacerac"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Bacoachi"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"B�cum"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Ban�michi"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Bavi�cora"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Bavispe"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Benjam�n Hill"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Caborca"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Cajeme"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Cananea"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Carb�"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"La Colorada"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Cucurpe"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Cumpas"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Divisaderos"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Empalme"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Etchojoa"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Fronteras"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Granados"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Guaymas"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Hermosillo"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Huachinera"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Hu�sabas"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Huatabampo"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Hu�pac"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Imuris"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Magdalena"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Mazat�n"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Moctezuma"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Naco"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"N�cori Chico"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Nacozari de Garc�a"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Navojoa"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Nogales"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Onavas"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Opodepe"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Oquitoa"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Pitiquito"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Puerto Pe�asco"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Quiriego"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Ray�n"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Rosario"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Sahuaripa"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"San Felipe de Jes�s"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"San Javier"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"San Luis R�o Colorado"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"San Miguel de Horcasitas"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"San Pedro de la Cueva"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Santa Ana"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Santa Cruz"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"S�ric"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Soyopa"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Suaqui Grande"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Tepache"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Trincheras"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Tubutama"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Ures"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Villa Hidalgo"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Villa Pesqueira"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Y�cora"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"General Plutarco El�as Calles"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"Benito Ju�rez"
+  },
+  {
+    "Entidad":"Sonora",
+    "Municipio":"San Ignacio R�o Muerto"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Balanc�n"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"C�rdenas"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Centla"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Centro"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Comalcalco"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Cunduac�n"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Emiliano Zapata"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Huimanguillo"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Jalapa"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Jalpa de M�ndez"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Jonuta"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Macuspana"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Nacajuca"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Para�so"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Tacotalpa"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Teapa"
+  },
+  {
+    "Entidad":"Tabasco",
+    "Municipio":"Tenosique"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Abasolo"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Aldama"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Altamira"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Antiguo Morelos"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Burgos"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Bustamante"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Camargo"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Casas"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Ciudad Madero"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Cruillas"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"G�mez Far�as"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Gonz�lez"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"G��mez"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Guerrero"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Gustavo D�az Ordaz"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Hidalgo"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Jaumave"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Jim�nez"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Llera"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Mainero"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"El Mante"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Matamoros"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"M�ndez"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Mier"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Miguel Alem�n"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Miquihuana"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Nuevo Laredo"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Nuevo Morelos"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Ocampo"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Padilla"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Palmillas"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Reynosa"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"R�o Bravo"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"San Carlos"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"San Fernando"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"San Nicol�s"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Soto la Marina"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Tampico"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Tula"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Valle Hermoso"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Victoria"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Villagr�n"
+  },
+  {
+    "Entidad":"Tamaulipas",
+    "Municipio":"Xicot�ncatl"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Amaxac de Guerrero"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Apetatitl�n de Antonio Carvajal"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Atlangatepec"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Atltzayanca"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Apizaco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Calpulalpan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"El Carmen Tequexquitla"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Cuapiaxtla"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Cuaxomulco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Chiautempan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Mu�oz de Domingo Arenas"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Espa�ita"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Huamantla"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Hueyotlipan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Ixtacuixtla de Mariano Matamoros"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Ixtenco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Mazatecochco de Jos� Mar�a Morelos"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Contla de Juan Cuamatzi"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tepetitla de Lardiz�bal"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Sanct�rum de L�zaro C�rdenas"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Nanacamilpa de Mariano Arista"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Acuamanala de Miguel Hidalgo"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Nat�vitas"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Panotla"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Pablo del Monte"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Santa Cruz Tlaxcala"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tenancingo"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Teolocholco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tepeyanco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Terrenate"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tetla de la Solidaridad"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tetlatlahuca"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tlaxcala"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tlaxco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tocatl�n"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Totolac"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Ziltlalt�pec de Trinidad S�nchez Santos"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Tzompantepec"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Xaloztoc"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Xaltocan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Papalotla de Xicoht�ncatl"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Xicohtzinco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Yauhquemehcan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Zacatelco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Benito Ju�rez"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Emiliano Zapata"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"L�zaro C�rdenas"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"La Magdalena Tlaltelulco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Dami�n Tex�loc"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Francisco Tetlanohcan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Jer�nimo Zacualpan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Jos� Teacalco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Juan Huactzinco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Lorenzo Axocomanitla"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"San Lucas Tecopilco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Santa Ana Nopalucan"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Santa Apolonia Teacalco"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Santa Catarina Ayometla"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Santa Cruz Quilehtla"
+  },
+  {
+    "Entidad":"Tlaxcala",
+    "Municipio":"Santa Isabel Xiloxoxtla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Acajete"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Acatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Acayucan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Actopan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Acula"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Acultzingo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Camar�n de Tejeda"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Alpatl�huac"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Alto Lucero de Guti�rrez Barrios"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Altotonga"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Alvarado"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Amatitl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Naranjos Amatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Amatl�n de los Reyes"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Angel R. Cabada"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"La Antigua"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Apazapan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Aquila"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Astacinga"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Atlahuilco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Atoyac"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Atzacan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Atzalan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlaltetela"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ayahualulco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Banderilla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Benito Ju�rez"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Boca del R�o"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Calcahualco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Camerino Z. Mendoza"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Carrillo Puerto"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Catemaco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cazones de Herrera"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cerro Azul"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Citlalt�petl"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coacoatzintla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coahuitl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coatepec"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coatzacoalcos"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coatzintla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coetzala"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Colipa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Comapa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"C�rdoba"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cosamaloapan de Carpio"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cosautl�n de Carvajal"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coscomatepec"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cosoleacaque"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cotaxtla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coxquihui"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Coyutla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cuichapa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Cuitl�huac"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chacaltianguis"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chalma"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chiconamel"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chiconquiaco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chicontepec"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chinameca"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chinampa de Gorostiza"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Las Choapas"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chocam�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chontla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Chumatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Emiliano Zapata"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Espinal"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Filomeno Mata"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Fort�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Guti�rrez Zamora"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Hidalgotitl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Huatusco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Huayacocotla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Hueyapan de Ocampo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Huiloapan de Cuauht�moc"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ignacio de la Llave"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ilamatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Isla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixcatepec"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixhuac�n de los Reyes"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixhuatl�n del Caf�"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixhuatlancillo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixhuatl�n del Sureste"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixhuatl�n de Madero"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixmatlahuacan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ixtaczoquitl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Jalacingo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Xalapa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Jalcomulco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"J�ltipan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Jamapa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Jes�s Carranza"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Xico"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Jilotepec"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Juan Rodr�guez Clara"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Juchique de Ferrer"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Landero y Coss"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Lerdo de Tejada"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Magdalena"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Maltrata"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Manlio Fabio Altamirano"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Mariano Escobedo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Mart�nez de la Torre"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Mecatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Mecayapan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Medell�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Miahuatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Las Minas"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Minatitl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Misantla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Mixtla de Altamirano"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Moloac�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Naolinco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Naranjal"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Nautla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Nogales"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Oluta"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Omealca"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Orizaba"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Otatitl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Oteapan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ozuluama de Mascare�as"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Pajapan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"P�nuco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Papantla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Paso del Macho"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Paso de Ovejas"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"La Perla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Perote"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Plat�n S�nchez"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Playa Vicente"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Poza Rica de Hidalgo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Las Vigas de Ram�rez"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Pueblo Viejo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Puente Nacional"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Rafael Delgado"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Rafael Lucio"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Los Reyes"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"R�o Blanco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Saltabarranca"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"San Andr�s Tenejapan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"San Andr�s Tuxtla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"San Juan Evangelista"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Santiago Tuxtla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Sayula de Alem�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Soconusco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Sochiapa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Soledad Atzompa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Soledad de Doblado"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Soteapan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tamal�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tamiahua"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tampico Alto"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tancoco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tantima"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tantoyuca"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tatatila"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Castillo de Teayo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tecolutla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tehuipango"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"�lamo Temapache"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tempoal"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tenampa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tenochtitl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Teocelo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tepatlaxco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tepetl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tepetzintla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tequila"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Jos� Azueta"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Texcatepec"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Texhuac�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Texistepec"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tezonapa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tierra Blanca"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tihuatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlacojalpan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlacolulan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlacotalpan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlacotepec de Mej�a"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlachichilco"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlalixcoyan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlalnelhuayocan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlapacoyan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlaquilpa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tlilapan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tomatl�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tonay�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Totutla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tuxpan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tuxtilla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Ursulo Galv�n"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Vega de Alatorre"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Veracruz"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Villa Aldama"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Xoxocotla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Yanga"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Yecuatla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Zacualpan"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Zaragoza"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Zentla"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Zongolica"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Zontecomatl�n de L�pez y Fuentes"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Zozocolco de Hidalgo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Agua Dulce"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"El Higo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Nanchital de L�zaro C�rdenas del R�o"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tres Valles"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Carlos A. Carrillo"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Tatahuicapan de Ju�rez"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Uxpanapa"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"San Rafael"
+  },
+  {
+    "Entidad":"Veracruz de Ignacio de la Llave",
+    "Municipio":"Santiago Sochiapan"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Abal�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Acanceh"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Akil"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Baca"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Bokob�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Buctzotz"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Cacalch�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Calotmul"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Cansahcab"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Cantamayec"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Celest�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Cenotillo"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Conkal"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Cuncunul"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Cuzam�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chacsink�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chankom"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chapab"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chemax"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chicxulub Pueblo"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chichimil�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chikindzonot"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chochol�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Chumayel"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Dz�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Dzemul"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Dzidzant�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Dzilam de Bravo"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Dzilam Gonz�lez"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Dzit�s"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Dzoncauich"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Espita"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Halach�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Hocab�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Hoct�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Hom�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Huh�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Hunucm�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Ixil"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Izamal"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Kanas�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Kantunil"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Kaua"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Kinchil"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Kopom�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Mama"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Man�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Maxcan�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Mayap�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"M�rida"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Mococh�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Motul"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Muna"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Muxupip"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Opich�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Oxkutzcab"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Panab�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Peto"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Progreso"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Quintana Roo"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"R�o Lagartos"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Sacalum"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Samahil"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Sanahcat"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"San Felipe"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Santa Elena"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Sey�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Sinanch�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Sotuta"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Sucil�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Sudzal"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Suma"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tahdzi�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tahmek"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Teabo"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tecoh"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tekal de Venegas"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tekant�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tekax"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tekit"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tekom"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Telchac Pueblo"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Telchac Puerto"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Temax"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Temoz�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tepak�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tetiz"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Teya"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Ticul"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Timucuy"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tinum"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tixcacalcupul"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tixkokob"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tixmehuac"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tixp�hual"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tizim�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tunk�s"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Tzucacab"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Uayma"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Uc�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Um�n"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Valladolid"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Xocchel"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Yaxcab�"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Yaxkukul"
+  },
+  {
+    "Entidad":"Yucat�n",
+    "Municipio":"Yoba�n"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Apozol"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Apulco"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Atolinga"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Benito Ju�rez"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Calera"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Ca�itas de Felipe Pescador"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Concepci�n del Oro"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Cuauht�moc"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Chalchihuites"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Fresnillo"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Trinidad Garc�a de la Cadena"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Genaro Codina"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"General Enrique Estrada"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"General Francisco R. Murgu�a"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"El Plateado de Joaqu�n Amaro"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"General P�nfilo Natera"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Guadalupe"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Huanusco"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Jalpa"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Jerez"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Jim�nez del Teul"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Juan Aldama"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Juchipila"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Loreto"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Luis Moya"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Mazapil"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Melchor Ocampo"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Mezquital del Oro"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Miguel Auza"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Momax"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Monte Escobedo"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Morelos"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Moyahua de Estrada"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Nochistl�n de Mej�a"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Noria de �ngeles"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Ojocaliente"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"P�nuco"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Pinos"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"R�o Grande"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Sain Alto"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"El Salvador"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Sombrerete"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Susticac�n"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Tabasco"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Tepechitl�n"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Tepetongo"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Te�l de Gonz�lez Ortega"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Tlaltenango de S�nchez Rom�n"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Valpara�so"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Vetagrande"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Villa de Cos"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Villa Garc�a"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Villa Gonz�lez Ortega"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Villa Hidalgo"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Villanueva"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Zacatecas"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Trancoso"
+  },
+  {
+    "Entidad":"Zacatecas",
+    "Municipio":"Santa Mar�a de la Paz"
+  }
+]

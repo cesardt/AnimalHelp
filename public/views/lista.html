@@ -13,10 +13,13 @@
             <form class="form-inline" role="form">
              <div class="form-group">
               <span class="glyphicon glyphicon-road"></span>
-              <input type="text" class="form-control typeahead" placeholder="Estado" >
+              <input type="text" class="form-control typeahead" placeholder="Estado">
             </div>
-            <select class="form-control" ng-model = 'species' ng-change = 'filterBySpecies(species)' ng-options='species for species in allSpecies'>
+            <select class="form-control" ng-model = 'species' ng-change = 'filter()' ng-options='species for species in allSpecies'>
               <option value="">--Choose species--</option>
+            </select>
+            <select class="form-control" ng-model = 'size' ng-change = 'filter()' ng-options='size for size in sizes'>
+              <option value="">--Choose Size--</option>
             </select>
           </form>
         </div>
@@ -25,8 +28,10 @@
       <div class="row placeholders" style="padding-top:80px"> <!--inicia listado de mascotas-->
         <div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets | filter:query ">
           <div class="photos">
-            <div class="doggies"  style="background: url(../images/doggie.jpg);background-size: 100%;" >
+            <a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >
+            <div class="doggies"  style="background: url(../images/pets/{{pet._id}}/0) 50% 50% no-repeat; background-size: 170%;">
             </div>
+          </a>
           </div>
           <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a></h4> <!--Redireccion de pagina -->
         </div>

@@ -1,7 +1,12 @@
+var pictures;
 angular.module('MyApp')
-  .controller('AddPetCtrl', ['$scope', '$alert', 'PetService', '$rootScope', 'FileUploader', function($scope, $alert, PetService, $rootScope, FileUploader) {
-var user = $rootScope.currentUser;
-$scope.pictures = new FileUploader();
+  .controller('AddPetCtrl', ['$scope', '$alert', 'PetService', '$rootScope',  function($scope, $alert, PetService, $rootScope) {
+    var user = $rootScope.currentUser;
+    var pictures = [];
+    $scope.onFileSelect = function($files) {
+      pictures = $files;
+      console.log(pictures);
+    }
     $scope.addPet = function() {
 
       PetService.savePet({
@@ -11,7 +16,7 @@ $scope.pictures = new FileUploader();
           size: $scope.size,
           location: $scope.location,
           user: user,
-          pictures: $scope.pictures.queue
+          pictures: pictures
       }); 
     };
   }]);
