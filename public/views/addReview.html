@@ -1,36 +1,73 @@
+
 <div class="container">
   <div class="panel panel-default">
-    <div class="panel-heading">Add new location</div>
+    <div class="panel-heading">Review</div>
     <div class="panel-body">
-      <form class="form-horizontal" role="form" method="post" ng-submit="addPlace()" name="addForm">
+      <form class="form-horizontal" role="form" method="post" ng-submit="addReview()" name="addForm">
         <div class="form-group" ng-class="{ 'has-success' : addForm.showName.$valid && addForm.showName.$dirty, 'has-error' : addForm.showName.$invalid && addForm.showName.$dirty }">
-          <label for="placeName" class="col-sm-2 control-label">Name</label>
+          <label for="Title" class="col-sm-2 control-label">Title</label>
           <div class="col-sm-10">
-            <input type="text" class="form-control" id="name" placeholder="Name of the place" ng-model="name">
+            <input type="text" class="form-control" id="title" ng-model="title">
           </div>
         </div>
         <div class="form-group">
-          <label for="placeDescription" class="col-sm-2 control-label">Description</label>
+          <label for="Content" class="col-sm-2 control-label">Content</label>
           <div class="col-sm-10">
-            <textarea class="form-control" rows="3" id="description" ng-model="description"></textarea>
+            <textarea class="form-control" rows="3" id="content" ng-model="content"></textarea>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-2">
-          <label class="control-label">Schedule</label>
-          </div>
-          <div class="col-md-2 col-xs-5">
-            <input type="text" class="form-control" placeholder="Time open" ng-model:"timeOpen">
-          </div>
-          <div class="col-md-2 col-xs-5">
-            <input type="text" class="form-control" placeholder="Time close" ng-model:"timeClose">
+        <div class="form-group">
+          <label for="Stars" class="col-sm-2 control-label">Rating</label>
+          <div class="col-sm-10"> 
+            <input id="rating-input" ng-model="stars" type="number"  data-symbol="&#xe005;"/>       
           </div>
         </div>
-        
+
         <button type="submit" ng-disabled="addForm.$invalid"
-          class="btn btn-lg btn-primary pull-right">Add Review
-        </button>
-      </form>
-    </div>
+        class="btn btn-lg btn-primary pull-right">Add Review
+      </button>
+
+
+    </form>
   </div>
 </div>
+</div>
+<script>
+jQuery(document).ready(function () {
+  $("#input-2ba").rating({
+    starCaptions: function(val) {
+      if (val < 3) {
+        return val;
+      } else {
+        return 'high';
+      }
+    },
+    starCaptionClasses: function(val) {
+      if (val < 3) {
+        return 'label label-danger';
+      } else {
+        return 'label label-success';
+      }
+    },
+    hoverOnClear: false
+  });
+
+  $('#rating-input').rating({
+    min: 0,
+    max: 5,
+    step: 1,
+    size: 'lg'
+  });
+
+  
+
+  $('#rating-input').on('rating.change', function() {
+    
+  });
+
+
+  $('.rb-rating').rating({'showCaption':true, 'hearts':'3', 'min':'0', 'max':'3', 'step':'1', 'size':'xs', 'starCaptions': {0:'status:nix', 1:'status:wackelt', 2:'status:geht', 3:'status:laeuft'}});
+});
+</script>
+
+

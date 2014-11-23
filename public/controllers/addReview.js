@@ -1,22 +1,34 @@
-var pictures;
 angular.module('MyApp')
-  .controller('AddReviewCtrl', ['$scope', '$alert', 'PetService', '$rootScope',  function($scope, $alert, PetService, $rootScope) {
-    var user = $rootScope.currentUser;
-    var pictures = [];
-    $scope.onFileSelect = function($files) {
-      pictures = $files;
-      console.log(pictures);
-    }
-    $scope.addPet = function() {
+.controller('AddReviewCtrl', ['$scope', '$rootScope', '$routeParams', 'Place', 'Review', 'ReviewService',
+  function($scope, $rootScope, $routeParams, Place, Review,ReviewService) {
+    Place.get({ _id: $routeParams.id }, function(place) {
+      $scope.place = place;
 
-      PetService.savePet({
-          name: $scope.name,
-          species: $scope.species,
-          description: $scope.description,
-          size: $scope.size,
-          location: $scope.location,
-          user: user,
-          pictures: pictures
+
+
+
+    });
+
+    $scope.addReview = function() {
+      console.log($scope.stars);
+      ReviewService.saveReview({
+        title : $scope.title,
+        content: $scope.content,
+        user: $rootScope.currentUser,
+        place: $scope.place,
+        stars: $scope.stars
+
       }); 
     };
+
+
   }]);
+
+
+
+
+/* title: String,
+      user: {type: mongoose.Schema.Types.ObjectId, ref: 'User'},
+      place: {type: mongoose.Schema.Types.ObjectId, ref: 'Place'},
+      stars: Number,
+      content: String*/

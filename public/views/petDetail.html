@@ -1,9 +1,19 @@
-<link href="stylesheets/product-style.css" rel="stylesheet" />
 <style>
 div#container{
   top: 50px;
 }
+li>img.img-responsive{
+  width:auto;
+  height:auto;
+  max-height: 100px;
+}
+.thumbnail img.img-responsive{
+  width: auto;
+  height: 100px;
+}
 </style>
+<link href="stylesheets/product-style.css" rel="stylesheet" />
+
 <script>
 
 
@@ -19,30 +29,38 @@ $(".carousel-control, .product-tabs li>a").click(function(e){
           <div id="itemsingle" class="carousel slide clearfix">
             
             <div class="carousel-inner">
-              <div class="item active">
-                <img src="images/doggie.jpg" alt="slider detail dodolan manuk">
-              </div>
-              <div class="item">
-                <img src="images/doggie.jpg" alt="slider detail dodolan manuk">
-              </div>
-              <div class="item">
-                <img src="images/slide1.jpg" alt="slider detail dodolan manuk">
+              <div ng-repeat="picture in pictures" ng-class="$index == 0 ? 'active item' : 'item'" >
+                <img src="images/pets/{{pet._id}}/{{picture}}"+image alt="slider detail">
               </div>
             </div>
             
             <ol class="carousel-indicators">
-              <li data-target="#itemsingle" data-slide-to="0" class="active"><img src="images/doggie.jpg" class="img-responsive" alt="slider detail dodolan manuk"></li>
-              <li data-target="#itemsingle" data-slide-to="1" class=""><img src="images/doggie.jpg" class="img-responsive" alt="slider detail dodolan manuk"></li>
-              <li data-target="#itemsingle" data-slide-to="2" class=""><img src="images/slide1.jpg" class="img-responsive" alt="slider detail dodolan manuk"></li>
+              <li ng-repeat="picture in pictures" data-target="#itemsingle" data-slide-to="{{$index}}" ng-class="$index == 0 ? 'active' : ''" ><img src="images/pets/{{pet._id}}/{{picture}}" class="img-responsive" ></li>
             </ol>
             
           </div>
         </div>
-        <div class="col-md-7 col-sm-7">
+        <div class="col-md-6 col-md-offset-1 col-sm-7">
+          <div class="row">
           <h3>{{pet.name}}</h3>
           <p>{{pet.description}}</p>
           <p><strong>Size: </strong>{{pet.size}}</p>
-          <p><a href="#" class="btn btn-primary btn-success">Adopt now</a></p>
+          <p><strong>Location: </strong>{{pet.location}}</p>
+          <button ng-if="pet.user!=currentUser._id && currentUser && pet.adopters.indexOf(currentUser._id)==-1" class="btn btn-primary btn-success" ng-click = "sendMail()">Adopt now</button>
+          </div>
+          
+            <div class="row" ng-if="pet.user == currentUser._id && currentUser">
+              <h4 ng-show="adopters.length>0">Prospective adopters</h4>
+              <div class="radio" ng-repeat="adopter in adopters">
+                <label>
+                  <input type="radio" name="adoptionRadios" ng-model="adoptionRadios" value="{{adopter._id}}" ng-change="handleRadio('{{adopter._id}}')">
+                  {{adopter.email}} <a href="user/{{adopter._id}}" style="font-size:9px;" class="pull-right">See profile</a>
+                </label>
+              </div>
+              <button ng-show="adopters.length>0" type="button" class="btn btn-primary btn-info" ng-click="chooseAdopter()" style="position: relative; bottom:6px;" ng-show="currentUser">Select as adopter</button>
+            </div>
+            <a class="btn btn-danger btn-info" href="#/login" style="position: relative; bottom:6px;" ng-show="!currentUser">Log in to adopt</a>
+          </div>
         </div>
       </div>
 
@@ -50,40 +68,24 @@ $(".carousel-control, .product-tabs li>a").click(function(e){
       <div class="row">
         <div class="col-md-12 product-tabs">
           <ul id="myTab" class="nav nav-tabs">
-            <li class="active"><a href="#related" data-toggle="tab">Related Items</a></li>
+            <li class="active"><a href="#related" data-toggle="tab">Related Pets</a></li>
             <li class=""><a href="#comments" data-toggle="tab">Comments</a></li>
           </ul>
           <div id="myTabContent" class="tab-content">
             <div class="tab-pane fade active in" id="related">
               <div class="row">
                 <ul class="thumbnails list-unstyled">
-                  <li class="col-md-2 col-sm-2">
-                    <div class="thumbnail">
-                      <a href="detail.html"><img src="img/manuk.jpg" class="img-responsive" alt="detail dodolan manuk"></a>
+                  <!--inicia rep-->
+                  <li ng-repeat = "pet in otherPets|orderBy:random|filter: notMainId|limitTo: 5">
+                  
+                    <div class="thumbnail col-md-2 col-xs-4">
+                      <a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' ><img src="images/pets/{{pet._id}}/0" class="img-responsive"></a>
                       <div class="caption-details">
-                        <h5>Border Canary</h5>
-                        <span class="price">$200</span>
+                        <h5>{{pet.name}}</h5>
                       </div>
                     </div>
                   </li>
-                  <li class="col-md-2 col-sm-2">
-                    <div class="thumbnail">
-                      <a href="detail.html"><img src="img/manuk.jpg" class="img-responsive" alt="detail dodolan manuk"></a>
-                      <div class="caption-details">
-                        <h5>Border Canary</h5>
-                        <span class="price">$200</span>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="col-md-2 col-sm-2">
-                    <div class="thumbnail">
-                      <a href="detail.html"><img src="img/manuk.jpg" class="img-responsive" alt="detail dodolan manuk"></a>
-                      <div class="caption-details">
-                        <h5>Border Canary</h5>
-                        <span class="price">$200</span>
-                      </div>
-                    </div>
-                  </li>
+                
                 </ul>
               </div>
             </div>

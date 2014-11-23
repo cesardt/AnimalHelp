@@ -3564,9 +3564,7 @@ a.badge:hover, a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857;
-  background-color: #e4e7ec;
   border: 1px solid #ddd;
-  border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
@@ -4457,9 +4455,9 @@ button.close {
     transition: 0.6s ease-in-out left; }
     .carousel-inner > .item > img, .carousel-inner > .item > a > img {
       display: block;
-      width: 100%;
-      max-width: 100%;
+      width: auto;
       height: auto;
+      max-height: 300px;
       line-height: 1; }
   .carousel-inner > .active, .carousel-inner > .next, .carousel-inner > .prev {
     display: block; }

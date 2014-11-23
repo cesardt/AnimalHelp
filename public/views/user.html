@@ -1,76 +1,90 @@
   <div class="container">
   	<div class="panel panel-default">
   		<div class="panel-heading">
-  		</div>
-  		<div class="panel-body">
-  			
-  			<div class="row">
-  				<div class="col-md-2">
-  					<img data-holder-rendered="true" src="http://www.faithlineprotestants.org/wp-content/uploads/2010/12/facebook-default-no-profile-pic.jpg" style="width: 200px; height: 200px;" >
-  				</div>
-  				<div class= "col-md-6" style="padding-left:40px">
-  					<h3> Name</h3> <br>Residence<br> {{user.email}}
-  				</div>
-  				<div class= "col-md-2" >
-  					
-  					<p><h3 > <br><br><br># <br>Listed</h3></p>
-  				</div>
-  				<div div class= "col-md-2">
-  					<p><h3 >  <br><br><br># <br>Adopted</h3></p>
-  				</div>
-  			</div>
-  			<div class="row user-tabs">
-  				<div class="col-md-12 product-tabs">
-  					<ul id="myTab" class="nav nav-tabs">
-  						<li class="active"><a href="#listed" data-toggle="tab">Listed</a></li>
-  						<li class=""><a href="#adoptions" data-toggle="tab">Adoptions</a></li>
-  						<li class=""><a href="#reviews" data-toggle="tab">Reviews</a></li>
-  					</ul>
-  					<div id="myTabContent" class="tab-content">
 
-  						
-  						<div class="tab-pane fade active in" id="listed">
-  							<div class="row placeholders" style="padding-top:80px"> <!--inicia listado de mascotas-->
+        <a class="btn btn-primary pull-right btn-sm btn-info" href="#/modifyUser/{{currentUser._id}}" style="position: relative; bottom:6px;" ng-show="currentUser">Modify profile</a>
+        <br>
+      </div>
+      <div class="panel-body">
 
-
-                  <!--repetir de aqui-->  
-                  <div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets | filter: query">
-                    <div class="photos">
-                      <div class="doggies"  style="background: url(../images/doggie.jpg);background-size: 100%;" >
-                      </div>
-                    </div>
-                    <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a></h4> <!--Redireccion de pagina -->
-                  </div>
-                  <!--hasta aqui--> 
-
-
-                </div> <!--finaliza listado de perritos-->
-              </div>
-              <div class="tab-pane fade " id="adoptions">
-               Adoptions
-             </div>
-             <div class="tab-pane fade " id="reviews">
-               Reviews
-             </div>
-           </div>
-
-         </div>
-
-
+       <div class="row">
+        <div class="col-md-2">
+         <img data-holder-rendered="true" src="http://www.faithlineprotestants.org/wp-content/uploads/2010/12/facebook-default-no-profile-pic.jpg" style="width: 200px; height: 200px;" >
        </div>
+       <div class= "col-md-6" style="padding-left:40px">
+         <h3> {{user.name}}</h3> <br>Residence<br> {{user.email}}
+       </div>
+       <div class= "col-md-2" >
 
-
-
+         <p><h3 > <br><br><br># <br>Listed</h3></p>
+       </div>
+       <div div class= "col-md-2">
+         <p><h3 >  <br><br><br># <br>Adopted</h3></p>
+       </div>
      </div>
-   </div>
-   <script >
-   $(".user-tabs li>a").click(function(e){
-    e.preventDefault();
-  });
-   </script>
- </div>
- <style>
- .doggies{
+     <div class="row user-tabs">
+      <div class="col-md-12 product-tabs">
+       <ul id="myTab" class="nav nav-tabs">
+        <li class="active"><a href="#listed" data-toggle="tab">Listed</a></li>
+        <li class=""><a href="#reviews" data-toggle="tab">Reviews</a></li>
+      </ul>
+      <div id="myTabContent" class="tab-content">
+
+
+        <div class="tab-pane fade active in" id="listed">
+         <div class="row placeholders" style="padding-top:80px"> <!--inicia listado de mascotas-->
+
+
+          <!--repetir de aqui-->  
+          <div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets | filter: query">
+            <div class="photos">
+              <div class="doggies"  style="background: url(../images/pets/{{pet._id}}/0) 50% 50% no-repeat; background-size: 170%;" >
+              </div>
+            </div>
+            <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a></h4> <!--Redireccion de pagina -->
+          </div>
+          <!--hasta aqui--> 
+
+
+        </div> <!--finaliza listado de perritos-->
+      </div>
+
+      <div class="tab-pane fade " id="reviews">
+       <h2>REVIEWS</h2>
+       <div class="row" ng-repeat="review in reviews | filter:query ">
+
+        <hr style="border-width:2px"> 
+        <div class="col-md-6">
+
+          <div>
+            <h4 style="display:inline"> {{review.title}}</h4> -{{currentUser.email}}<br>{{review.content}}  
+          </div>
+        </div>
+        <div class= "col-md-6">
+          <div class="star-rating rating-xs rating-active"><div class="clear-rating clear-rating-active" title="Clear"></div><div data-content="" class="rating-container rating-gly"><div style="width: {{review.stars*20}}%;" data-content="" class="rating-stars"></div><input style="display: none;" id="input-2b" class="rating form-control" data-min="0" data-max="5" data-step="0.5" data-stars="5" data-symbol="" data-default-caption="{rating} hearts" data-star-captions="{}"></div></div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+</div>
+
+
+
+</div>
+</div>
+<script >
+$(".user-tabs li>a").click(function(e){
+  e.preventDefault();
+});
+</script>
+</div>
+<style>
+.doggies{
 
 
 

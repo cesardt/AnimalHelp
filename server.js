@@ -4,6 +4,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
+var ObjectId = require('mongoose').Types.ObjectId;
 var bcrypt = require('bcryptjs');
 var async = require('async');
 var request = require('request');
@@ -16,13 +17,16 @@ var formidable = require('formidable');
 var fs   = require('fs-extra');
 var qt   = require('quickthumb');
 var util = require('util');
+var nodemailer = require('nodemailer');
 
 var app = express();
 
 var userSchema = new mongoose.Schema({
   email: { type: String, unique: true },
   password: String,
-  isFacebook: Boolean
+  isFacebook: Boolean,
+  name: String,
+  residence: String,
 });
 var placeSchema = new mongoose.Schema({
   name: String,
@@ -36,10 +40,13 @@ var placeSchema = new mongoose.Schema({
 var petSchema = new mongoose.Schema({
   name: String,
   user: {type: mongoose.Schema.Types.ObjectId, ref: 'User'},
+  adopters: [{type: mongoose.Schema.Types.ObjectId, ref: 'User'}],
+  adopter: {type: mongoose.Schema.Types.ObjectId, ref: 'User'},
   description: String,
   species: String,
   size: String,
-  location: String
+  city: String,
+  state: String
 });
 
 var citySchema = new mongoose.Schema({
@@ -84,6 +91,7 @@ var User = mongoose.model('User', userSchema);
 var Place = mongoose.model('Place', placeSchema);
 var Pet = mongoose.model('Pet', petSchema);
 var Review = mongoose.model('Review', reviewSchema);
+var City = mongoose.model('City', citySchema);
 
 mongoose.connect('localhost');
 
@@ -149,20 +157,6 @@ uploadImage = function(req, res, dir, id){
   });
 }
 
-app.get('/lshows', function(req, res, next) {
-  var query = Show.find();
-  if (req.query.genre) {
-    query.where({ genre: req.query.genre });
-  } else if (req.query.alphabet) {
-    query.where({ name: new RegExp('^' + '[' + req.query.alphabet + ']', 'i') });
-  } else {
-    query.limit(12);
-  }
-  query.exec(function(err, shows) {
-    if (err) return next(err);
-    res.send(shows);
-  });
-});
 app.get('/api/map', function(req, res, next) {
   var query = Place.find();
   query.exec(function(err, places) {
@@ -170,10 +164,43 @@ app.get('/api/map', function(req, res, next) {
     res.send(places);
   });
 });
+
+app.get('/api/city', function(req, res, next) {
+  var query = City.find();
+
+  if(req.query.state){
+    query.where({state: req.query.state});
+  }
+
+  query.exec(function(err, cities) {
+    if (err) return next(err);
+    res.send(cities);
+  });
+});
+
+app.get('/api/review', function(req, res, next) {
+  var queryContent = {};
+  console.log("Query place:");
+  console.log(req.query.place);
+  if(req.query.place){
+    queryContent.place = req.query.place;
+  }
+  if(req.query.user){
+    queryContent.user = new ObjectId(req.query.user._id)
+  }
+  var query = Review.find();
+  query.where(queryContent);
+  console.log(queryContent.place);
+  query.exec(function(err, reviews) {
+    if (err) return next(err);
+    res.send(reviews);
+  });
+});
+
 app.get('/api/lista', function(req, res, next) {
   var query = Pet.find();
 
-  if(req.query.species && req.query.size){
+  /*if(req.query.species && req.query.size){
     query.where({species: req.query.species, size: req.query.size });
   }
   else if (req.query.species) {
@@ -181,22 +208,34 @@ app.get('/api/lista', function(req, res, next) {
   }
   else if(req.query.size) {
     query.where({size: req.query.size});
+  }*/
+
+  var queryContent = {};
+
+  if(req.query.species){
+    queryContent.species = req.query.species;
+  }
+  if(req.query.size){
+   queryContent.size = req.query.size;
+  }
+  if(req.query.city){
+    queryContent.city =req.query.city;
+  }
+  if(req.query.state){
+    queryContent.state = req.query.state;
+  }
+  if(req.query._id){
+    queryContent._id = req.query._id;
+  }
+  if(req.query.user){
+    queryContent.user = req.query.user;
   }
 
-  if(req.query.user){
-    query.where({user: req.query.user});
-  }
+  query.where(queryContent);
   
   query.exec(function(err, pets) {
     if (err) return next(err);
     res.send(pets);
-  });
-});
-app.get('/api/shows/:id', function(req, res, next) {
-  Show.findById(req.params.id, function(err, show) {
-    if (err) return next(err);
-    console.log(show);
-    res.send(show);
   });
 });
 app.get('/api/map/:id', function(req, res, next) {
@@ -206,18 +245,65 @@ app.get('/api/map/:id', function(req, res, next) {
   });
 });
 app.get('/api/lista/:id', function(req, res, next) {
-  Pet.findById(req.params.id, function(err, pet) {
+  var id = req.params.id;
+  Pet.findById(id, function(err, pet) {
     if (err) return next(err);
-    res.send(pet);
+    var images;
+    images = fs.readdirSync(__dirname+'/public/images/pets/'+id);
+    res.send({pet: pet, pictures: images});
   });
 });
+
 app.get('/api/user/:id', function(req, res, next) {
+  User.findById(req.params.id, function(err, user) {
+    if (err) return next(err);  
+    res.send(user);
+  
+  });
+});
+
+  app.get('/api/modifyUser/:id', function(req, res, next) {
   User.findById(req.params.id, function(err, user) {
     if (err) return next(err);  
     res.send(user);
   });
 
 });
+   app.post('/api/modifyUser/', function(req, res, next) {
+  User.findById(req.params.id, function(err, user) {
+
+    if (err) return next(err);  
+    res.send(user);
+  });
+
+});
+app.get('/api/addReview/:id', function(req, res, next){
+  Place.findById(req.parasm.id, function(err, place) {
+    if (err) return next(err);  
+    res.send(place);
+  });
+});
+
+app.post('/api/addReview', function(req, res, next){
+  var user = new mongoose.Schema.ObjectId(req.body.user._id).path;
+  var place = new mongoose.Schema.ObjectId(req.body.place._id).path;
+
+  var review = new Review({
+
+    title : req.body.title,
+    content: req.body.content,
+    user: user,
+    place:place,
+    stars: req.body.stars
+    
+    
+  });
+  review.save(function(err){
+    if(err) return next(err);
+    res.send(200);
+  });
+});
+
 app.get('*', function(req, res) {
   res.redirect('/#' + req.originalUrl);
 });
@@ -241,22 +327,7 @@ app.post('/api/addPlace', function(req, res, next){
   });
 });
 
-app.post('/api/addReview', function(req, res, next){
-  var user = new mongoose.Schema.ObjectId(req.body.user._id).path;
-  var pet = new Pet({
-    name: req.body.name,
-    description: req.body.description,
-    species: req.body.species,
-    size: req.body.size, 
-    location: req.body.location,
-    user: user
-  });
-  pet.save(function(err){
-    if(err) return next(err);
-    res.send(pet);
-  });
 
-});
 
 app.post('/api/addPet', function(req, res, next){
   var user = new mongoose.Schema.ObjectId(req.body.user._id).path;
@@ -265,7 +336,8 @@ app.post('/api/addPet', function(req, res, next){
     description: req.body.description,
     species: req.body.species,
     size: req.body.size, 
-    location: req.body.location,
+    city: req.body.city,
+    state: req.body.state,
     user: user
   });
   pet.save(function(err){
@@ -293,12 +365,44 @@ app.post('/api/signup', function(req, res, next) {
   user.save(function(err) {
     if (err) return next(err);
 
-    
-    
-
   });
   res.send(user);
 
+});
+
+app.post('/api/mail', function(req, res, next){
+  var petId = req.body.pet._id;
+  Pet.findById(petId, function(err,pet){
+    if (err) return next(err);
+    pet.adopters.push(req.body.sender._id);
+    pet.save(function(err) {
+      if (err) return next(err);
+        var transporter = nodemailer.createTransport({
+        service: 'Gmail',
+        auth: {
+            user: 'animalhelpapp@gmail.com',
+            pass: 'rodolfoelreno'
+        }
+      });
+      text = 'You have received an adoption request from '+ req.body.sender.email +' to adopt '+ req.body.pet.name;
+      transporter.sendMail({
+        from: 'animalhelpapp@gmail.com',
+        to: req.body.receiver.email,
+        subject: 'Adoption request for '+req.body.pet.name,
+        text: text
+      }, function(error, response){  //callback
+         if(error){
+            console.log(error);
+             return next(error);
+         }else{
+             res.send(pet.id);
+         }
+         transporter.close();
+       });
+    });
+  })
+
+  
 });
 
 app.use(function(req, res, next) {

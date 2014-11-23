@@ -28,11 +28,13 @@ angular.module('MyApp', ['ngCookies', 'ngResource', 'ngMessages', 'ngRoute', 'mg
 	})
 	.when('/addPlace', {
 		templateUrl: 'views/addPlace.html',
-		controller: 'AddPlaceCtrl'
+		controller: 'AddPlaceCtrl',
+		access: true
 	})
-	.when('/addReview', {
+	.when('/addReview/:id', {
 		templateUrl: 'views/addReview.html',
-		controller: 'AddReviewCtrl'
+		controller: 'AddReviewCtrl',
+		access: true
 	})
 	.when('/list', {
 		templateUrl: 'views/lista.html',
@@ -48,14 +50,31 @@ angular.module('MyApp', ['ngCookies', 'ngResource', 'ngMessages', 'ngRoute', 'mg
 	})
 	.when('/addPet', {
 		templateUrl: 'views/addPet.html',
-		controller: 'AddPetCtrl'
+		controller: 'AddPetCtrl',
+		access: true
 	})
 	.when('/user/:id', {
 		templateUrl: 'views/user.html',
 		controller: 'UserDetailCtrl'
 	})
+	.when('/modifyUser/:id', {
+		templateUrl: 'views/modifyUser.html',
+		controller: 'ModifyUserCtrl',
+		access: true
+	})
 	.otherwise({
 		redirectTo: '/'
 	});
 
-});
+}).run(function($rootScope, $location, $route) {
+    $rootScope.$on( "$locationChangeStart", function(event, next, current) {
+      if ($rootScope.currentUser == null) {
+      	var path = $route.routes[$location.path()];
+        if(path){
+        	if(path.access){
+        		$location.path("/login");
+        	}
+        }
+      }
+    });
+  });

@@ -7,13 +7,17 @@
       </div>
       <div class="panel-body">
 
-        <div class="col-md-12" style="padding-left:400px;padding-top:20px;">
+        <div class="col-md-12" style="padding-top:20px;">
           <div id="the-basics">
 
             <form class="form-inline" role="form">
              <div class="form-group">
-              <span class="glyphicon glyphicon-road"></span>
-              <input type="text" class="form-control typeahead" placeholder="Estado">
+              <select class="form-control" ng-model = 'state' ng-change = 'filterCities()' ng-options='state for state in states'>
+              <option value="">--Choose state--</option>
+            </select>
+              <select class="form-control" ng-model = 'city' ng-change = 'filter()' ng-options='city.city for city in cities'>
+              <option value="">--Choose city--</option>
+            </select>
             </div>
             <select class="form-control" ng-model = 'species' ng-change = 'filter()' ng-options='species for species in allSpecies'>
               <option value="">--Choose species--</option>
@@ -36,6 +40,12 @@
           <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a></h4> <!--Redireccion de pagina -->
         </div>
       </div> <!--finaliza listado de perritos-->
+      <nav>
+        <ul class="pager">
+          <li class="previous"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
+          <li class="next"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+        </ul>
+    </nav>
 
     </div>
   </div>

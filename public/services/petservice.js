@@ -1,19 +1,19 @@
 angular.module('MyApp')
-  .factory('PetService', ['$http', '$location', '$rootScope', '$alert', '$upload',
-    function($http, $location, $rootScope, $alert, $upload) {
+.factory('PetService', ['$http', '$location', '$rootScope', '$alert', '$upload',
+  function($http, $location, $rootScope, $alert, $upload) {
 
-      return {
-        savePet: function(pet) {
-          var pet = pet;
-          console.log(pet);
-          return $http.post('/api/addPet', pet)
-            .success(function(id) {
-              var pictures = pet.pictures;
-              for (var i = 0; i < pictures.length; i++) {
-                var file = pictures[i];
-                console.log("File ")
-                console.log(file);
-                $upload.upload({
+    return {
+      savePet: function(pet) {
+        var pet = pet;
+        console.log(pet);
+        return $http.post('/api/addPet', pet)
+        .success(function(id) {
+          var pictures = pet.pictures;
+          for (var i = 0; i < pictures.length; i++) {
+            var file = pictures[i];
+            console.log("File ")
+            console.log(file);
+            $upload.upload({
                   url: 'upload/'+id._id, //upload.php script, node.js route, or servlet url
                   //method: 'POST' or 'PUT',
                   //headers: {'header-key': 'header-value'},
@@ -42,15 +42,28 @@ angular.module('MyApp')
                 duration: 3
               });
             })
-            .error(function(response) {
-              $alert({
-                title: 'Error!',
-                content: response.data,
-                placement: 'top-right',
-                type: 'danger',
-                duration: 3
-              });
-            });
-        }
-      };
-    }]);
+.error(function(response) {
+  $alert({
+    title: 'Error!',
+    content: response.data,
+    placement: 'top-right',
+    type: 'danger',
+    duration: 3
+  });
+});
+},
+setAdopter: function(pet){
+  return $http.post('/api/updatePet', pet)
+  .success(function(id){
+    $location.path('/list');
+    $alert({
+      title: 'Success!',
+      content: 'Your pet has been adopted.',
+      placement: 'top-right',
+      type: 'success',
+      duration: 3
+    });
+  })
+}
+};
+}]);
