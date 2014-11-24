@@ -54,7 +54,7 @@ angular.module('MyApp')
 },
 setAdopter: function(pet){
   return $http.post('/api/updatePet', pet)
-  .success(function(id){
+  .success(function(){
     $location.path('/list');
     $alert({
       title: 'Success!',

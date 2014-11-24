@@ -13,7 +13,7 @@ angular.module('MyApp')
 
           $alert({
             title: 'Cheers!',
-            content: 'You have successfully logged in.',
+            content: 'You have successfully logged in, you can modify your profile here',
             placement: 'top-right',
             type: 'success',
             duration: 3

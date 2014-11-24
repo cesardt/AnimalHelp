@@ -42,22 +42,31 @@ $(".carousel-control, .product-tabs li>a").click(function(e){
         </div>
         <div class="col-md-6 col-md-offset-1 col-sm-7">
           <div class="row">
-          <h3>{{pet.name}}</h3>
+          <h3>{{pet.name}} <button ng-if="pet.adopter" type="button" class="btn btn-primary btn-danger btn-xs" disabled>Adopted</button></h3>
           <p>{{pet.description}}</p>
           <p><strong>Size: </strong>{{pet.size}}</p>
-          <p><strong>Location: </strong>{{pet.location}}</p>
-          <button ng-if="pet.user!=currentUser._id && currentUser && pet.adopters.indexOf(currentUser._id)==-1" class="btn btn-primary btn-success" ng-click = "sendMail()">Adopt now</button>
+          <p><strong>Location: </strong>{{pet.city}}, {{pet.state}}</p>
+          <button ng-if="pet.user!=currentUser._id && currentUser && pet.adopters.indexOf(currentUser._id)==-1 && !pet.adopter" class="btn btn-primary btn-success" ng-click = "sendMail()">Adopt now</button>
           </div>
+          <button ng-if="pet.user!=currentUser._id && currentUser && pet.adopters.indexOf(currentUser._id)>-1 && currentUser._id!=pet.adopter" class="btn btn-primary btn-success" disabled>Your request has been recorded</button>
+          <button ng-if="pet.user!=currentUser._id && currentUser._id==pet.adopter && currentUser" class="btn btn-primary btn-success" disabled>Thank you for doing your part!</button>
+          
+
           
             <div class="row" ng-if="pet.user == currentUser._id && currentUser">
-              <h4 ng-show="adopters.length>0">Prospective adopters</h4>
-              <div class="radio" ng-repeat="adopter in adopters">
-                <label>
-                  <input type="radio" name="adoptionRadios" ng-model="adoptionRadios" value="{{adopter._id}}" ng-change="handleRadio('{{adopter._id}}')">
-                  {{adopter.email}} <a href="user/{{adopter._id}}" style="font-size:9px;" class="pull-right">See profile</a>
-                </label>
+              <div ng-show="adopters.length>0 && !pet.adopter">
+                <h4>Prospective adopters</h4>
+                <div class="radio" ng-repeat="adopter in adopters">
+                  <label>
+                    <input type="radio" name="adoptionRadios" ng-model="adoptionRadios" value="{{adopter._id}}" ng-change="handleRadio('{{adopter._id}}')">
+                    {{adopter.email}} <a href="user/{{adopter._id}}" style="font-size:9px;" class="pull-right">See profile</a>
+                  </label>
+                </div>
+                <button type="button" class="btn btn-primary btn-info" ng-click="chooseAdopter()" style="position: relative; bottom:6px;" ng-show="currentUser">Select as adopter</button>
               </div>
-              <button ng-show="adopters.length>0" type="button" class="btn btn-primary btn-info" ng-click="chooseAdopter()" style="position: relative; bottom:6px;" ng-show="currentUser">Select as adopter</button>
+              <div ng-show="pet.adopter">
+                <strong>Yay! Someone adopted your pet!</strong> <br><a href="/user/{{pet.adopter}}"style="font-size:12px;">Click here to see their profile</a> 
+              </div>
             </div>
             <a class="btn btn-danger btn-info" href="#/login" style="position: relative; bottom:6px;" ng-show="!currentUser">Log in to adopt</a>
           </div>

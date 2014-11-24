@@ -1,8 +1,17 @@
+<style>
+  #boardgame {
+    font-family: Arial;
+    font-weight: 800;
+    font-size: 46px;
+    color: #fff;
+    text-shadow: 18px 18px 0 #ffd217, 20px 20px 0 #5ac7ff, 22px 22px 0 #ffd217, 24px 24px 0 #5ac7ff;;
+  }
+</style>
   <div class="container">
   	<div class="panel panel-default">
   		<div class="panel-heading">
 
-        <a class="btn btn-primary pull-right btn-sm btn-info" href="#/modifyUser/{{currentUser._id}}" style="position: relative; bottom:6px;" ng-show="currentUser">Modify profile</a>
+        <a class="btn btn-primary pull-right btn-sm btn-info" href="#/modifyUser/{{currentUser._id}}" style="position: relative; bottom:6px;" ng-show="currentUser._id==user._id">Modify profile</a>
         <br>
       </div>
       <div class="panel-body">
@@ -12,14 +21,11 @@
          <img data-holder-rendered="true" src="http://www.faithlineprotestants.org/wp-content/uploads/2010/12/facebook-default-no-profile-pic.jpg" style="width: 200px; height: 200px;" >
        </div>
        <div class= "col-md-6" style="padding-left:40px">
-         <h3> {{user.name}}</h3> <br>Residence<br> {{user.email}}
+         <h3> <span ng-show="user.name">{{user.name}}</span ><span ng-show="!user.name">Nombre</span></h3> <br><span ng-show="user.residence">{{user.residence}}</span> <span ng-show="!user.residence"> Residence </span><br> {{user.email}}
        </div>
        <div class= "col-md-2" >
 
-         <p><h3 > <br><br><br># <br>Listed</h3></p>
-       </div>
-       <div div class= "col-md-2">
-         <p><h3 >  <br><br><br># <br>Adopted</h3></p>
+         <p><h2 id="boardgame">{{pets.length}}</h2><h3>Listed</h3></p>
        </div>
      </div>
      <div class="row user-tabs">
@@ -32,13 +38,13 @@
 
 
         <div class="tab-pane fade active in" id="listed">
-         <div class="row placeholders" style="padding-top:80px"> <!--inicia listado de mascotas-->
+         <div class="row placeholders" style="padding-top:10px"> <!--inicia listado de mascotas-->
 
 
           <!--repetir de aqui-->  
-          <div class="col-sm-6 col-md-3 placeholder" ng-repeat="pet in pets | filter: query">
+          <div class="col-sm-6 col-md-2 placeholder" ng-repeat="pet in pets | filter: query">
             <div class="photos">
-              <div class="doggies"  style="background: url(../images/pets/{{pet._id}}/0) 50% 50% no-repeat; background-size: 170%;" >
+              <div class="doggies"  style="background: url(../images/pets/{{pet._id}}/0) 50% 50% no-repeat; background-size: 170%; height: 100px; width: 100px;" >
               </div>
             </div>
             <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a></h4> <!--Redireccion de pagina -->
@@ -57,7 +63,7 @@
         <div class="col-md-6">
 
           <div>
-            <h4 style="display:inline"> {{review.title}}</h4> -{{currentUser.email}}<br>{{review.content}}  
+            <h4 style="display:inline"> {{review.title}}</h4> - <a href="/location/{{places[$index]._id}}">{{places[$index].name}}</a><br>{{review.content}}  
           </div>
         </div>
         <div class= "col-md-6">

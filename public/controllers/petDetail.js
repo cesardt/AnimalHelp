@@ -1,6 +1,6 @@
 angular.module('MyApp')
-  .controller('PetDetailCtrl', ['$scope', '$rootScope', '$routeParams', 'Pet', 'Mail', 'User',
-    function($scope, $rootScope, $routeParams, Pet, Mail, User) {
+  .controller('PetDetailCtrl', ['$scope', '$rootScope', '$routeParams', 'Pet', 'Mail', 'User', 'PetService',
+    function($scope, $rootScope, $routeParams, Pet, Mail, User, PetService) {
     	
     	$scope.receiver=null;
         $scope.adopters = [];
@@ -42,7 +42,9 @@ angular.module('MyApp')
 		});
 	}
     $scope.chooseAdopter = function(){
-        console.log($scope.adoptionRadios);
+        PetService.setAdopter({
+            adopter: $scope.adoptionRadios,
+            pet: $scope.pet._id
+        });
     }
-
     }]);

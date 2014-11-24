@@ -186,7 +186,7 @@ app.get('/api/review', function(req, res, next) {
     queryContent.place = req.query.place;
   }
   if(req.query.user){
-    queryContent.user = new ObjectId(req.query.user._id)
+    queryContent.user = req.query.user;
   }
   var query = Review.find();
   query.where(queryContent);
@@ -217,26 +217,26 @@ app.get('/api/lista', function(req, res, next) {
   }
   if(req.query.size){
    queryContent.size = req.query.size;
-  }
-  if(req.query.city){
-    queryContent.city =req.query.city;
-  }
-  if(req.query.state){
-    queryContent.state = req.query.state;
-  }
-  if(req.query._id){
-    queryContent._id = req.query._id;
-  }
-  if(req.query.user){
-    queryContent.user = req.query.user;
-  }
+ }
+ if(req.query.city){
+  queryContent.city =req.query.city;
+}
+if(req.query.state){
+  queryContent.state = req.query.state;
+}
+if(req.query._id){
+  queryContent._id = req.query._id;
+}
+if(req.query.user){
+  queryContent.user = req.query.user;
+}
 
-  query.where(queryContent);
-  
-  query.exec(function(err, pets) {
-    if (err) return next(err);
-    res.send(pets);
-  });
+query.where(queryContent);
+
+query.exec(function(err, pets) {
+  if (err) return next(err);
+  res.send(pets);
+});
 });
 app.get('/api/map/:id', function(req, res, next) {
   Place.findById(req.params.id, function(err, place) {
@@ -258,27 +258,35 @@ app.get('/api/user/:id', function(req, res, next) {
   User.findById(req.params.id, function(err, user) {
     if (err) return next(err);  
     res.send(user);
-  
+
   });
 });
 
-  app.get('/api/modifyUser/:id', function(req, res, next) {
+app.get('/api/modifyUser/:id', function(req, res, next) {
   User.findById(req.params.id, function(err, user) {
     if (err) return next(err);  
     res.send(user);
   });
 
 });
-   app.post('/api/modifyUser/', function(req, res, next) {
-  User.findById(req.params.id, function(err, user) {
+app.post('/api/modifyUser/', function(req, res, next) {
+  User.findById(req.body.id, function(err, user) {
 
-    if (err) return next(err);  
-    res.send(user);
+    if(req.body.name){
+      user.name = req.body.name;
+    }
+    if(req.body.name){
+      user.residence = req.body.residence;
+    }
+    user.save(function(err){
+      if (err) return next(err);  
+      res.send(user);
+    });
   });
 
 });
 app.get('/api/addReview/:id', function(req, res, next){
-  Place.findById(req.parasm.id, function(err, place) {
+  Place.findById(req.params.id, function(err, place) {
     if (err) return next(err);  
     res.send(place);
   });
@@ -312,6 +320,16 @@ app.use(function(err, req, res, next) {
   res.send(500, { message: err.message });
 });
 
+app.post('/api/updatePet', function(req, res, next){
+  Pet.findById(req.body.pet, function(err, pet) {
+    if (err) return next(err);
+    pet.adopter = req.body.adopter;
+    pet.save(function(err){
+      if(err) return next(err);
+      res.send(200);
+    });
+  });
+});
 app.post('/api/addPlace', function(req, res, next){
   var place = new Place({
     name: req.body.name,
@@ -377,11 +395,11 @@ app.post('/api/mail', function(req, res, next){
     pet.adopters.push(req.body.sender._id);
     pet.save(function(err) {
       if (err) return next(err);
-        var transporter = nodemailer.createTransport({
+      var transporter = nodemailer.createTransport({
         service: 'Gmail',
         auth: {
-            user: 'animalhelpapp@gmail.com',
-            pass: 'rodolfoelreno'
+          user: 'animalhelpapp@gmail.com',
+          pass: 'rodolfoelreno'
         }
       });
       text = 'You have received an adoption request from '+ req.body.sender.email +' to adopt '+ req.body.pet.name;
@@ -391,14 +409,14 @@ app.post('/api/mail', function(req, res, next){
         subject: 'Adoption request for '+req.body.pet.name,
         text: text
       }, function(error, response){  //callback
-         if(error){
-            console.log(error);
-             return next(error);
-         }else{
-             res.send(pet.id);
-         }
-         transporter.close();
-       });
+       if(error){
+        console.log(error);
+        return next(error);
+      }else{
+       res.send(pet.id);
+     }
+     transporter.close();
+   });
     });
   })
 

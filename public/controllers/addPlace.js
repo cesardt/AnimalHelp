@@ -1,7 +1,7 @@
 angular.module('MyApp')
   .controller('AddPlaceCtrl', ['$scope', '$alert', 'PlaceService', function($scope, $alert, PlaceService) {
-    var lat;
-    var lon;
+    var lat=23.634501;
+    var lon=-102.552784;
     $scope.addPlace = function() {
       PlaceService.savePlace({
           name: $scope.name,

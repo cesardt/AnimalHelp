@@ -6,25 +6,24 @@
         <div class="form-group" ng-class="{ 'has-success' : addForm.showName.$valid && addForm.showName.$dirty, 'has-error' : addForm.showName.$invalid && addForm.showName.$dirty }">
           <label for="name" class="col-sm-2 control-label">Name</label>
           <div class="col-sm-10">
-            <input type="text" class="form-control" id="name" placeholder="Name of the pet" ng-model="name">
+            <input type="text" class="form-control" id="name" placeholder="Name of the pet" ng-model="name" required>
           </div>
         </div>
 
         <div class="form-group">
           <label for="placeDescription" class="col-sm-2 control-label">Description</label>
           <div class="col-sm-10">
-            <textarea class="form-control" rows="3" id="description" ng-model="description"></textarea>
+            <textarea class="form-control" rows="3" id="description" ng-model="description" required></textarea>
           </div>
         </div>
 
          <div class="form-group">
           <label for="species" class="col-sm-2 control-label">Species</label>
           <div class="col-sm-3">
-          <select class="form-control" id="species" ng-model="species">
-            <option>Dog</option>
+          <select class="form-control" id="species" ng-model="species" required>
+            <option selected>Dog</option>
             <option>Cat</option>
             <option>Ferret</option>
-            <option>Cathy Perry</option>
           </select>
           </div>
         </div>
@@ -32,8 +31,8 @@
          <div class="form-group">
           <label for="size" class="col-sm-2 control-label">Size</label>
           <div class="col-sm-3">
-            <select class="form-control" id="size" ng-model="size">
-            <option>Very Small</option>
+            <select class="form-control" id="size" ng-model="size" required>
+            <option selected>Very Small</option>
             <option>Small</option>
             <option>Medium</option>
             <option>Large</option>
@@ -45,8 +44,8 @@
         <div class="form-group">
           <label for="state" class="col-sm-2 control-label">State</label>
           <div class="col-sm-3">
-          <select class="form-control" id="state" ng-model="state" ng-change = 'filterCities()' ng-options='state for state in states'>
-            <option value="">--Choose state--</option>
+          <select class="form-control" id="state" ng-model="state" ng-change = 'filterCities()' ng-options='state for state in states' required>
+            <option selected>--Choose state--</option>
           </select>
           </div>
         </div>
@@ -54,8 +53,8 @@
          <div class="form-group">
           <label for="city" class="col-sm-2 control-label">City</label>
           <div class="col-sm-3">
-          <select class="form-control" id="city" ng-model="city" ng-options='city.city for city in cities'>
-            <option value="">--Choose city--</option>
+          <select class="form-control" id="city" ng-model="city" ng-options='city.city for city in cities' required>
+            <option selected>--Choose city--</option>
           </select>
           </div>
         </div>
@@ -63,7 +62,7 @@
         <div class='form-group'>
           <label for="location" class="col-sm-2 control-label">Add pictures</label>
           <div class="col-sm-10">
-            <input type="file" ng-file-select="onFileSelect($files)" multiple accept="image/*"><br/>
+            <input type="file" ng-file-select="onFileSelect($files)" multiple accept="image/*" required><br/>
         <ul>
             <li ng-repeat="item in pictures.queue">
                 Name: <span ng-bind="item.file.name"></span><br/>

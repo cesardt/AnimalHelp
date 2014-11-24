@@ -1,5 +1,6 @@
 angular.module('MyApp', ['ngCookies', 'ngResource', 'ngMessages', 'ngRoute', 'mgcrea.ngStrap','google-maps'.ns(), 'angularFileUpload'])
 .config(function($locationProvider, $routeProvider) {
+	
 	$locationProvider.html5Mode(true);
 	$routeProvider
 	.when('/', {
