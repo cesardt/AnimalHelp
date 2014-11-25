@@ -130,6 +130,10 @@ app.post('/upload/:id', function (req, res){
   var id = req.params.id;
   uploadImage(req, res, "/public/images/pets",id);
 });
+app.post('/uploadProfilePicture/:id', function (req, res){
+  var id = req.params.id;
+  uploadImage(req, res, "/public/images/users",id);
+});
 
 uploadImage = function(req, res, dir, id){
   var form = new formidable.IncomingForm();
@@ -306,9 +310,9 @@ app.post('/api/addReview', function(req, res, next){
     
     
   });
-  review.save(function(err){
+  review.save(function(err, review){
     if(err) return next(err);
-    res.send(200);
+    res.send(review);
   });
 });
 
@@ -323,10 +327,42 @@ app.use(function(err, req, res, next) {
 app.post('/api/updatePet', function(req, res, next){
   Pet.findById(req.body.pet, function(err, pet) {
     if (err) return next(err);
-    pet.adopter = req.body.adopter;
+    pet.adopter = req.body.adopter;   
     pet.save(function(err){
       if(err) return next(err);
-      res.send(200);
+      var sender;
+      var receiver;
+      User.findById(req.body.adopter, function(err, receiver){
+        if(err) return next(err);
+        receiver = receiver;
+        User.findById(pet.user, function(err, sender){
+          if(err) return next(err);
+          sender = sender;
+          var transporter = nodemailer.createTransport({
+              service: 'Gmail',
+              auth: {
+                user: 'animalhelpapp@gmail.com',
+                pass: 'rodolfoelreno'
+              }
+            });
+            text = sender.name+'('+sender.email+') said you adopted '+pet.name+'. Congratulations! Thank you for doing your part.';
+            transporter.sendMail({
+              from: 'animalhelpapp@gmail.com',
+              to: receiver.email,
+              subject: 'You have adopted '+ pet.name +'!',
+              html: text
+            }, function(error, response){  //callback
+             if(error){
+              console.log(error);
+              return next(error);
+            }else{
+             res.send(200);
+           }
+           transporter.close();
+         });
+        });
+      });
+      
     });
   });
 });
@@ -402,12 +438,12 @@ app.post('/api/mail', function(req, res, next){
           pass: 'rodolfoelreno'
         }
       });
-      text = 'You have received an adoption request from '+ req.body.sender.email +' to adopt '+ req.body.pet.name;
+      text = 'You have received an adoption request from '+req.body.sender.email+' (<a href="http://localhost:3000/user/'+req.body.sender._id+'">click to see their profile</a>) to adopt <a href="http://localhost:3000/petDetail/'+req.body.pet._id+'">'+req.body.pet.name+'</a><br>Please get in touch with them if you would like them to adopt this pet!' ;
       transporter.sendMail({
         from: 'animalhelpapp@gmail.com',
         to: req.body.receiver.email,
         subject: 'Adoption request for '+req.body.pet.name,
-        text: text
+        html: text
       }, function(error, response){  //callback
        if(error){
         console.log(error);

@@ -54,7 +54,10 @@ angular.module('MyApp')
 				$scope.reviews = response;
 				console.log($scope.reviews.length);
 				for (var i = $scope.reviews.length - 1; i >= 0; i--) {
-					$scope.generalRating += parseFloat($scope.reviews[i].stars);
+					console.log($scope.reviews[i].stars);
+					if($scope.reviews[i].stars){
+						$scope.generalRating += parseFloat($scope.reviews[i].stars);
+					}
 					var email;
 					User.get({_id: $scope.reviews[i].user}, (function(i){
 						return function(response){
@@ -65,7 +68,9 @@ angular.module('MyApp')
 					 
 					
 				};
-				$scope.generalRating = $scope.generalRating/$scope.reviews.length;
+				if($scope.reviews.length>0){
+					$scope.generalRating = $scope.generalRating/$scope.reviews.length;
+				}
 			});
 		});
 

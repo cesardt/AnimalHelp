@@ -2,7 +2,7 @@ var pictures;
 angular.module('MyApp')
   .controller('AddPetCtrl', ['$scope', '$alert', 'PetService', 'City' ,'$rootScope',  function($scope, $alert, PetService, City, $rootScope) {
     var user = $rootScope.currentUser;
-    var pictures = [];
+    $scope.pictures = [];
 
         $scope.states =["Aguascalientes",
             "Baja California",
@@ -39,7 +39,7 @@ angular.module('MyApp')
 
 
     $scope.onFileSelect = function($files) {
-      pictures = $files;
+      $scope.pictures = $files;
     }
     $scope.addPet = function() {
  
@@ -51,7 +51,7 @@ angular.module('MyApp')
           city: $scope.city.city,
           state: $scope.state,
           user: user,
-          pictures: pictures
+          pictures: $scope.pictures
       }); 
     };
 

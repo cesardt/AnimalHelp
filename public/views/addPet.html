@@ -32,11 +32,11 @@
           <label for="size" class="col-sm-2 control-label">Size</label>
           <div class="col-sm-3">
             <select class="form-control" id="size" ng-model="size" required>
-            <option selected>Very Small</option>
-            <option>Small</option>
-            <option>Medium</option>
-            <option>Large</option>
-            <option>Very Large</option>
+            <option selected value="Very Small">Very Small</option>
+            <option value="Small">Small</option>
+            <option value="Medium">Medium</option>
+            <option value="Large">Large</option>
+            <option value="Very Large">Very Large</option>
           </select>
           </div>
         </div>
@@ -64,8 +64,8 @@
           <div class="col-sm-10">
             <input type="file" ng-file-select="onFileSelect($files)" multiple accept="image/*" required><br/>
         <ul>
-            <li ng-repeat="item in pictures.queue">
-                Name: <span ng-bind="item.file.name"></span><br/>
+            <li ng-repeat="item in pictures">
+                Filename: <span ng-bind="item.name"></span><br/>
             </li>
         </ul>
         </div>

@@ -18,7 +18,8 @@
 
        <div class="row">
         <div class="col-md-2">
-         <img data-holder-rendered="true" src="http://www.faithlineprotestants.org/wp-content/uploads/2010/12/facebook-default-no-profile-pic.jpg" style="width: 200px; height: 200px;" >
+          <div style="background: url(../images/users/{{user._id}}/0) 50% 50% no-repeat; background-size: 170%; height: 200px; width: 200px;"></div>
+         <!--<img data-holder-rendered="true" src="http://www.faithlineprotestants.org/wp-content/uploads/2010/12/facebook-default-no-profile-pic.jpg" style="width: 200px; height: 200px;" >-->
        </div>
        <div class= "col-md-6" style="padding-left:40px">
          <h3> <span ng-show="user.name">{{user.name}}</span ><span ng-show="!user.name">Nombre</span></h3> <br><span ng-show="user.residence">{{user.residence}}</span> <span ng-show="!user.residence"> Residence </span><br> {{user.email}}

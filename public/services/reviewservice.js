@@ -4,11 +4,10 @@ angular.module('MyApp')
 
   return {
     saveReview: function(review) {
-
       return $http.post('/api/addReview', review)
       .success(function(id) {
-
-        $location.path('/map');
+        console.log(id);
+        $location.path('/location/'+id.place);
 
         $alert({
           title: 'Success!',

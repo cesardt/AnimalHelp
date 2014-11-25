@@ -37,7 +37,7 @@
             </div>
           </a>
           </div>
-          <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a></h4> <!--Redireccion de pagina -->
+          <h4><a href="/petDetail/{{pet._id}}" onclick='location.reload(true);' >{{pet.name}}</a> <button ng-if="pet.adopter" type="button" class="btn btn-primary btn-danger btn-xs ng-scope" disabled="">Adopted</button></h4> <!--Redireccion de pagina -->
         </div>
       </div> <!--finaliza listado de perritos-->
       
